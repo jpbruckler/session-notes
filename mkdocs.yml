@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: session-notes
 
 theme:
     name: 'material'
@@ -29,8 +29,8 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
+  - pymdownx.details
+  - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
