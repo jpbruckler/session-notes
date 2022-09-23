@@ -1,5 +1,6 @@
 site_name: session-notes
 site_url: https://jpbruckler.github.io/session-notes
+site_dir: docs
 
 theme:
     name: 'material'
@@ -26,17 +27,12 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  - attr_list
-  - pymdownx.arithmatex:
-      generic: true
+  - attr_list  
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.emoji
-  - pymdownx.tasklist
-  - pymdownx.tasklist:
-      custom_checkbox: true
   - def_list
   - pymdownx.critic
   - pymdownx.caret
@@ -45,6 +41,10 @@ markdown_extensions:
   - pymdownx.tilde
   - toc:
       permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 plugins:
   - search
