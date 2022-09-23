@@ -3,7 +3,11 @@ site_url: https://jpbruckler.github.io/session-notes
 
 theme:
     name: 'material'
+    features:
+    - navigation.instant
+
     palette:
+
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -26,7 +30,8 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  - attr_list  
+  - attr_list
+  - admonition 
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.details
@@ -37,11 +42,11 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.tilde
-  - toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
+#  - pymdownx.tilde
+#  - toc:
+#      permalink: true
+#  - pymdownx.arithmatex:
+#      generic: true
   - pymdownx.tasklist:
       custom_checkbox: true
 
