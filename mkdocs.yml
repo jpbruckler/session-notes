@@ -1,6 +1,5 @@
 site_name: session-notes
 site_url: https://jpbruckler.github.io/session-notes
-site_dir: docs
 
 theme:
     name: 'material'
