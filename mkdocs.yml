@@ -25,12 +25,15 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.emoji
+  - pymdownx.tasklist
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
@@ -39,7 +42,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-
   - toc:
       permalink: true
 
@@ -47,6 +49,8 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - tags:
+      tags_file: tags.md
 
 extra_javascript:
   - javascripts/mathjax.js
