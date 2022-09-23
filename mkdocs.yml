@@ -28,18 +28,12 @@ markdown_extensions:
   - attr_list
   - pymdownx.arithmatex:
       generic: true
-<<<<<<< HEAD
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.emoji
   - pymdownx.tasklist
-=======
-  # - pymdownx.superfences
-  - pymdownx.details
-  - pymdownx.magiclink
->>>>>>> a40d65293465f49740ab8d223efb2b469e6ccf60
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
