@@ -6,26 +6,26 @@ created: 2022-09-09, 12:27:37
 aliases: []
 ---
 
-> [!summary]+ Metadata 
-> campaign:: [[31 DotMM]]
-> factions::  [[The Legion of the Emerald Goat]], [[Church of Tymora]]
-> related:: [[Tsakor]], [[Gwenith Serena]], [[Goradaar Delmirev]], [[Hani Wildheart]], [[Olahna Hanali]], [[Tymora]], [[Jorlon]]
-> class:: cleric
-> ddbLink:: https://www.dndbeyond.com/characters/49473755
-> type:: character, ttrpg
+!!! info "Metadata "
+    campaign:: [[31 DotMM]]
+    factions::  [[The Legion of the Emerald Goat]], [[Church of Tymora]]
+    related:: [[Tsakor]], [[Gwenith Serena]], [[Goradaar Delmirev]], [[Hani Wildheart]], [[Olahna Hanali]], [[Tymora]], [[Jorlon]]
+    class:: cleric
+    ddbLink:: https://www.dndbeyond.com/characters/49473755
+    type:: character, ttrpg
 
 # [[Tandaleia Deleamintaviglia]]
 
 
-> [!info]- Current Goals
-> Short term:
->  - ?
-> 
-> Mid term:
-> - ?
-> 
-> Long term:
-> - ?
+!!! info "Current Goals"
+    Short term:
+    - ?
+    
+    Mid term:
+    - ?
+    
+    Long term:
+    - ?
 
 ## Relationships
 

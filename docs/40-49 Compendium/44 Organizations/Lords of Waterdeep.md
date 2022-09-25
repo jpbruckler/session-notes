@@ -8,13 +8,13 @@ aliases: []
 
 # [[Lords of Waterdeep]]
 
-> [!metablock] 
-> campaign:: [[31 DotMM]]
-> setting:: Forgotten Realms
-> leader:: [[Laeral Silverhand]]
-> related:: [[Waterdeep]], [[Harpers]], [[Lords Alliance]], [[Shadow Thieves]], [[Knights of the Shield]], [[Confluence]]
-> externalLink:: https://forgottenrealms.fandom.com/wiki/Lords_of_Waterdeep
-> type:: faction, ttrpg, government
+!!! info
+    campaign:: [[31 DotMM]]
+    setting:: Forgotten Realms
+    leader:: [[Laeral Silverhand]]
+    related:: [[Waterdeep]], [[Harpers]], [[Lords Alliance]], [[Shadow Thieves]], [[Knights of the Shield]], [[Confluence]]
+    externalLink:: https://forgottenrealms.fandom.com/wiki/Lords_of_Waterdeep
+    type:: faction, ttrpg, government
 
 
 ## Description

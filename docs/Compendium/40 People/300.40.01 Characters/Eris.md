@@ -7,42 +7,42 @@ aliases: []
 cssclass: med-page
 ---
 
-> [!metablock] 
-> campaign:: [[31 DotMM]]
-> factions:: 
-> related:: 
-> class:: 
-> player:: 
-> ddbLink:: 
-> type:: character, ttrpg
-> status:: 
-> lastLocation:: 
+!!! info
+    campaign:: [[31 DotMM]]
+    factions:: 
+    related:: 
+    class:: 
+    player:: 
+    ddbLink:: 
+    type:: character, ttrpg
+    status:: 
+    lastLocation:: 
 
 # [[Eris]]
 
-> [!infobox|right]
-> # Eris
-> ![[cianeris.png]]
-> ###### General
-> |       |       |     |      |
-> | --- | --- | --- | --- |
-> | HP | 18 | AC | 18 |
-> | 2 | PLD |  AL | CG | 
-> ###### Stats
-> | Title | Value |
-> | :----: | :----: |
-> | STR |  +0 (10) |
-> | DEX |  +0 (10) |
-> | CON | +0 (10) |
-> | INT | +0 (10) |
-> | WIS | +0 (10) |
-> | CHA | +0 (10) 
-> ###### Senses
-> | | |
-> |---|---|---|
-> | Passive | 👁️ | 11 |
-> |             |   :fas_magnifying_glass:   | 10 |
-> |            | :luc_lightbulb: | 11 |
+    [!infobox|right]
+    # Eris
+    ![[cianeris.png]]
+    ###### General
+    |       |       |     |      |
+    | --- | --- | --- | --- |
+    | HP | 18 | AC | 18 |
+    | 2 | PLD |  AL | CG | 
+    ###### Stats
+    | Title | Value |
+    | :----: | :----: |
+    | STR |  +0 (10) |
+    | DEX |  +0 (10) |
+    | CON | +0 (10) |
+    | INT | +0 (10) |
+    | WIS | +0 (10) |
+    | CHA | +0 (10) 
+    ###### Senses
+    | | |
+    |---|---|---|
+    | Passive | 👁️ | 11 |
+    |             |   :fas_magnifying_glass:   | 10 |
+    |            | :luc_lightbulb: | 11 |
 
 Short term:
  - ?

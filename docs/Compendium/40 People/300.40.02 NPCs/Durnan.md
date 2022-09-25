@@ -6,29 +6,29 @@ created: 2022-09-11, 01:03:11
 aliases: []
 ---
 
-> [!metablock] 
-> campaign:: [[31 DotMM]]
-> factions:: 
-> related:: 
-> class:: 
-> player:: 
-> ddbLink:: 
-> type:: npc, ttrpg
-> status:: 
-> lastLocation:: 
+!!! info
+    campaign:: [[31 DotMM]]
+    factions:: 
+    related:: 
+    class:: 
+    player:: 
+    ddbLink:: 
+    type:: npc, ttrpg
+    status:: 
+    lastLocation:: 
 
 # [[Durnan]]
 
 
-> [!info]- Current Goals
-> Short term:
->  - ?
-> 
-> Mid term:
-> - ?
-> 
-> Long term:
-> - ?
+!!! info "Current Goals"
+    Short term:
+    - ?
+    
+    Mid term:
+    - ?
+    
+    Long term:
+    - ?
 
 ## Relationships
 

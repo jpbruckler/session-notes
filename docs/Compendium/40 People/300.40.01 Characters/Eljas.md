@@ -6,16 +6,16 @@ created: 2022-09-10, 11:54:55
 aliases: []
 ---
 
-> [!metablock] 
-> campaign:: [[32 SumonHo]]
-> factions:: [[Danger Inc.]]
-> related:: [[Olseris]]
-> class:: Cleric
-> player:: Nick Hyatt
-> ddbLink:: 
-> type:: character, ttrpg
-> status: deceased
-> lastLocation:: [[Fortress Down Under]]
+!!! info
+    campaign:: [[32 SumonHo]]
+    factions:: [[Danger Inc.]]
+    related:: [[Olseris]]
+    class:: Cleric
+    player:: Nick Hyatt
+    ddbLink:: 
+    type:: character, ttrpg
+    status: deceased
+    lastLocation:: [[Fortress Down Under]]
 
 # [[Eljas]]
 

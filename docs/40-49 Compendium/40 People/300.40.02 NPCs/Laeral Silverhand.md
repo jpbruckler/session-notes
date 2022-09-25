@@ -14,42 +14,42 @@ banner_x: 0.5
 
 # [[Laeral Silverhand]]
 
-> [!metablock] 
-> campaign:: [[31 DotMM]]
-> factions:: [[Lords' Alliance]], [[Lords of Waterdeep]]
-> related:: 
-> class:: Wizard
-> externalLink:: https://forgottenrealms.fandom.com/wiki/Laeral_Silverhand
-> type:: npc, ttrpg, character
-> status:: alive
-> lastLocation:: [[Waterdeep]]
+!!! info
+    campaign:: [[31 DotMM]]
+    factions:: [[Lords' Alliance]], [[Lords of Waterdeep]]
+    related:: 
+    class:: Wizard
+    externalLink:: https://forgottenrealms.fandom.com/wiki/Laeral_Silverhand
+    type:: npc, ttrpg, character
+    status:: alive
+    lastLocation:: [[Waterdeep]]
 
-> [!infobox|right]
-> # Anamanué Laeral Silverhand
-> ![[laeral_silverhand.webp]]
-> ###### Stats
-> | Type |  Stat |
-> |---|---|
-> | Titles | Open Lord of Waterdeep |
-> |  | Lasy Mage of Waterdeep |
-> |  | Lady Blackstaff |
-> |  | Witch-Queen of Stornanter |
-> |  | Witch-Queen of the North |
-> | True Name | Myroune |
-> | Home | [[Waterdeep]], [[Sword Coast North]] |
-> | Race | Human |
-> | Patron Deity | [[Mystra]] |
-> ###### Dates
-> |   |   |
-> |---|---|
-> | Born | 765 DR |
-> | Died | |
-> ###### Other Statistics
-> |    |    |
-> |---|---|
-> | Alignment | CG |
-> | C/R | 17 |
-> | Class | Wizard 19 |
+    [!infobox|right]
+    # Anamanué Laeral Silverhand
+    ![[laeral_silverhand.webp]]
+    ###### Stats
+    | Type |  Stat |
+    |---|---|
+    | Titles | Open Lord of Waterdeep |
+    |  | Lasy Mage of Waterdeep |
+    |  | Lady Blackstaff |
+    |  | Witch-Queen of Stornanter |
+    |  | Witch-Queen of the North |
+    | True Name | Myroune |
+    | Home | [[Waterdeep]], [[Sword Coast North]] |
+    | Race | Human |
+    | Patron Deity | [[Mystra]] |
+    ###### Dates
+    |   |   |
+    |---|---|
+    | Born | 765 DR |
+    | Died | |
+    ###### Other Statistics
+    |    |    |
+    |---|---|
+    | Alignment | CG |
+    | C/R | 17 |
+    | Class | Wizard 19 |
 
 Laeral Silverhand (pronounced: /ˈlɛərɔːl/ LAIR-awl), born Anamanué Silverhand and formerly known as the Witch-Queen of the North and later the Lady Mage of Waterdeep, was one of the Seven Sisters, a Chosen of Mystra, and the Open Lord of Waterdeep during the late 15th century DR. Together with her partner Khelben "Blackstaff" Arunsun, they led the Moonstars, a dissident faction of the Harpers, which sought to guide the cities and countries of the North toward a shared destiny.
 

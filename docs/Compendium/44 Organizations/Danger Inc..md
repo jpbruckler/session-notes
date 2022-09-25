@@ -23,8 +23,8 @@ FactionType::PlayerParty
 
 ## Motto
 
-> [!quote]
-> Fuck it, we're going in.
+!!! info
+    Fuck it, we're going in.
 
 ## Purpose/Goals
 

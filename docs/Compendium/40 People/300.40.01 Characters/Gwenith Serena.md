@@ -6,26 +6,26 @@ created: 2022-09-09, 12:19:55
 aliases: []
 ---
 
-> [!summary]+ Metadata 
-> campaign:: [[31 DotMM]]
-> factions:: [[The Legion of the Emerald Goat]]
-> related:: [[Tsakor]], [[Tandaleia Deleamintaviglia]], [[Goradaar Delmirev]], [[Hani Wildheart]]
-> class:: druid
-> ddbLink:: https://www.dndbeyond.com/characters/38977523
-> type:: character, ttrpg
+!!! info "Metadata "
+    campaign:: [[31 DotMM]]
+    factions:: [[The Legion of the Emerald Goat]]
+    related:: [[Tsakor]], [[Tandaleia Deleamintaviglia]], [[Goradaar Delmirev]], [[Hani Wildheart]]
+    class:: druid
+    ddbLink:: https://www.dndbeyond.com/characters/38977523
+    type:: character, ttrpg
 
 # [[Gwenith Serena]]
 
 
-> [!info]- Current Goals
-> Short term:
->  - ?
-> 
-> Mid term:
-> - ?
-> 
-> Long term:
-> - ?
+!!! info "Current Goals"
+    Short term:
+    - ?
+    
+    Mid term:
+    - ?
+    
+    Long term:
+    - ?
 
 ## Relationships
 

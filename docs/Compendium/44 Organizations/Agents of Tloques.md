@@ -8,13 +8,13 @@ aliases: []
 
 # [[Agents of Tloques]]
 
-> [!metablock] 
-> campaign:: [[32 SumonHo]]
-> setting:: Scalinea
-> leader:: [[Tloques-Popolocas]]
-> related:: 
-> externalLink:: 
-> type:: faction, ttrpg
+!!! info
+    campaign:: [[32 SumonHo]]
+    setting:: Scalinea
+    leader:: [[Tloques-Popolocas]]
+    related:: 
+    externalLink:: 
+    type:: faction, ttrpg
 
 
 ## Description

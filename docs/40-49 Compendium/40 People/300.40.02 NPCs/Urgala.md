@@ -24,8 +24,8 @@ tags:
 
 ## Notes
 
-> [!quote]+
-> Although I couldn't be 100% certain that it wasn't a man disguised as a woman, or vice versa, I'm pretty confident I saw a tall man with a beard strangle a woman, then blew out the light.
+!!! info
+    Although I couldn't be 100% certain that it wasn't a man disguised as a woman, or vice versa, I'm pretty confident I saw a tall man with a beard strangle a woman, then blew out the light.
 
 ## Quests
 

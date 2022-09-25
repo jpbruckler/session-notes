@@ -10,38 +10,38 @@ tags: []
 
 # [[Waterdeep]]
 
-> [!metablock]
-> campaign:: [[31 DotMM]]
-> setting:: [[Forgotten Realms]]
-> government:: Oligarchy
-> notableNPCs:: [[Laeral Silverhand]]
-> region:: [[Sword Coast North]]
+!!! info
+    campaign:: [[31 DotMM]]
+    setting:: [[Forgotten Realms]]
+    government:: Oligarchy
+    notableNPCs:: [[Laeral Silverhand]]
+    region:: [[Sword Coast North]]
 
 Interactive map: https://www.aidedd.org/atlas/index.php?map=W&l=1
 
 
-> [!infobox]
-> ## Waterdeep
-> ![[Waterdeep_seal.webp|cover]]
-> ###### Geography
-> |  |  |
-> |---|---|
-> | Aliases | City of Splendors |
-> | | Crown of the North |
-> | Region | [[Sword Coast North]]
-> | | [[Northwest Faerun]]
-> ###### Society
-> |   |   |
-> |---|---|
-> | Demonym | Waterdhavians |
-> | Relgions | [[Deneir]], [[Mystra]], [[Oghma]], [[Tempus]], [[Sutamo]] |
-> ###### Politics
-> | | |
-> |---|---|
-> | Government | Oligarchical City State |
-> | [[Open Lord]] | [[Laeral Silverhand]] |
-> | Legislative | [[Lords of Waterdeep]] |
-> | Judicial | [[Magisters of Waterdeep]] |
+!!! info
+    ## Waterdeep
+    ![[Waterdeep_seal.webp|cover]]
+    ###### Geography
+    |  |  |
+    |---|---|
+    | Aliases | City of Splendors |
+    | | Crown of the North |
+    | Region | [[Sword Coast North]]
+    | | [[Northwest Faerun]]
+    ###### Society
+    |   |   |
+    |---|---|
+    | Demonym | Waterdhavians |
+    | Relgions | [[Deneir]], [[Mystra]], [[Oghma]], [[Tempus]], [[Sutamo]] |
+    ###### Politics
+    | | |
+    |---|---|
+    | Government | Oligarchical City State |
+    | [[Open Lord]] | [[Laeral Silverhand]] |
+    | Legislative | [[Lords of Waterdeep]] |
+    | Judicial | [[Magisters of Waterdeep]] |
 
 ### Description
 

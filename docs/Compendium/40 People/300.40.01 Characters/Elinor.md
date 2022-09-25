@@ -6,27 +6,27 @@ created: 2022-09-10, 11:48:53
 aliases: []
 ---
 
-> [!metablock] 
-> campaign:: [[32 SumonHo]]
-> factions:: [[Danger Inc.]]
-> related:: [[Gwyn Hovey]], [[Fuzula Fastbritches]], [[Kereshi Khill]]
-> class:: Bard
-> player:: Stephanie
-> ddbLink:: https://www.dndbeyond.com/characters/22866850
-> type:: character, ttrpg
+!!! info
+    campaign:: [[32 SumonHo]]
+    factions:: [[Danger Inc.]]
+    related:: [[Gwyn Hovey]], [[Fuzula Fastbritches]], [[Kereshi Khill]]
+    class:: Bard
+    player:: Stephanie
+    ddbLink:: https://www.dndbeyond.com/characters/22866850
+    type:: character, ttrpg
 
 # [[Elinor]]
 
 
-> [!info]- Current Goals
-> Short term:
->  - ?
-> 
-> Mid term:
-> - ?
-> 
-> Long term:
-> - ?
+!!! info "Current Goals"
+    Short term:
+    - ?
+    
+    Mid term:
+    - ?
+    
+    Long term:
+    - ?
 
 ## Relationships
 

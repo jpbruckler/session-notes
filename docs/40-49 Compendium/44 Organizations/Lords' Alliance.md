@@ -8,13 +8,13 @@ aliases: []
 
 # [[Lords' Alliance]]
 
-> [!metablock] 
-> campaign:: [[31 DotMM]]
-> setting:: Forgotten Realms
-> leader:: 
-> related:: 
-> externalLink:: 
-> type:: faction, ttrpg
+!!! info
+    campaign:: [[31 DotMM]]
+    setting:: Forgotten Realms
+    leader:: 
+    related:: 
+    externalLink:: 
+    type:: faction, ttrpg
 
 
 ## Description
