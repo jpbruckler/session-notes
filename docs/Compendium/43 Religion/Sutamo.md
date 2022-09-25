@@ -1,0 +1,1 @@
+a CN Quasidiety (minor god) in the Finnish pantheon. He was associated with Tuoni, the male of a pair of dieties that maintain the Underworld (land of the dead). His sphere of control is darkness. His symbol is a Glossy Orb in Blackness and his color is Jet Black.
