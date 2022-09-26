@@ -1,1 +1,0 @@
-The Master of the [[Lower Ecstasy|Passion Place]] [[Olgann]] is a very powerful entity; a battle mage, a warrior spell caster.
