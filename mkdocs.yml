@@ -42,6 +42,10 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 #  - pymdownx.tilde
 #  - toc:
 #      permalink: true
