@@ -29,7 +29,7 @@ Assistant manager at the [[Riverside Mine]]. We interacted with him when trying 
 
 ## Quests
 
-- [[Silhouette Murder]]
+- 
 
 ## Statblock
 

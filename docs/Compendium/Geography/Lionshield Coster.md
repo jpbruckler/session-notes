@@ -16,7 +16,7 @@ tags:
 ---
 # Lionshield Coster
 
-Campaign:: [[30-39 TTRPG/34 Campaigns/34.03 AotR/34.03 AotR|34.03 AotR]]
+Campaign:: [[32.00 AotR]]
 Setting:: [[Forgotten Realms]]
 GovernmentType::
 NotableNPCs::

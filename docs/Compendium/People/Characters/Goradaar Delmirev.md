@@ -1,71 +1,85 @@
 ---
-created: 2022-02-27
-modified: 2022-02-27 19:24
-type: person
-campaign: dotmm
-setting: forgotten-realms
-alias: Goradaar
-person:
-  type: pc
-  status: alive
-  race: 
-  gender: 
-  name: Goradaar
-  player: Michael
-factions: ["The Legion of the Emerald Goat"]
+title: Goradaar Delmirev
+id: 5c55ce23-4c99-4cf3-9a5b-bee5578f67f1
+created: 2022-10-13
 tags:
-  - ttrpg/pc
-  - ttrpg/campaign/dotmm
-  - ttrpg/campaign/dotmm
-  - ttrpg/faction/the-legion-of-the-emerald-goat
+  - ttrpg/character
 ---
 
-# Goradaar
+!!! info
+    - campaign:: [[32.01 DotMM]]
+    - factions:: [[The Legion of the Emerald Goat]]
+    - related:: [[Klalxin Trounaar]], [[Olreth Vrakbarum]], [[Kumphesh Vyugrax]]
+    - class:: Wizard
+    - player:: [[@Michael Bruckler]]
+    - ddbLink:: [Goradaar](https://www.dndbeyond.com/characters/38594440)
+    - type:: character, ttrpg
+    - status:: 💓
+    - lastLocation:: 
 
+# [[Goradaar Delmirev]]
 
+    [!infobox|right]
+    # Goradaar Delmirev
+    ![[Goradaar.png|275]]
+    ###### General
+    |       |       |     |      |
+    | --- | --- | --- | --- |
+    | HP | 37 | AC | 12 |
+    | LVL | 7 Wizard |  AL | CN | 
+    ###### Stats
+    | Title | Value |
+    | :----: | :----: |
+    | STR |  +0 (10) |
+    | DEX |  +0 (10) |
+    | CON | +1 (13) |
+    | INT | +3 (17) |
+    | WIS | +2 (14) |
+    | CHA | +1 (13) 
+    ###### Senses
+    | | |
+    |---|---|
+    | 👁️ | 12 |
+    |  :fas_magnifying_glass:   | 16 |
+    |  :luc_lightbulb: | 15 |
 
-```statblock
-name: Goradaar
-layout: Player
-columns: 1
-image: [[Goradaar.png]]
-size: Medium
-race: Ravenite Dragonborn
-subtype: Wizard
-alignment: Neutral Good
-ac: 10
-hp: 32
-speed: 30
-stats: [10,10,13,17,14,13]
-saves:
-  - Str: 0
-  - Dex: 0
-  - Con: 1
-  - Int: 3
-  - Wis: 2
-  - Cha: 1
-damage_resistances: Fire
-languages: Common, Draconic, Orc, Undercommon
-passives:
-  Perception: 12
-  Investigation: 16
-  Insight: 15
-```
-^statblock
+---
+**Goals**
+Short term:
+ - Gather as many animal parts as possible to write the definitive treatise on monstrous alchemy
 
+Mid term:
+- ?
 
+Long term:
+- ?
+---
+**Notes**
 
-## Factions & Relationships
+---
+**Background**
 
-| Faction Name        | Relationship |
-| ------------------- |:------------:|
-| [[The Last Blades]] |      +3      |
+The town of [Winterhaven](https://forgottenrealms.fandom.com/wiki/Winterhaven) was located on the East Way, between the nations of Sembia and Cormyr. It was situated on the road between Arabel and Highmoon. Due to its location in the middle of the Thunder Peaks, it was not uncommon for the inhabitants to be attacked by monstrous races such as kobolds and goblins.
 
-## Character Relationships
+An ancient dragon burial site laid southwest of the town, and the ruined Shadowfell Keep laid northeast 
 
-| Character Name | Relationship | Character Type |
-| -------------- |:------------:|:--------------:|
-|                |              |                |
+Family: 
 
+- 1 parent - [[Ardunshter Delmirev]]/D 
+- 1 sibling - [[Foldal Delmirev]]/F 
+- Powerful family relationships: 
+	- Your sister owes you a debt, and she doesn’t like owing anyone anything. She’ll help you out when you need it, but only to clear the slate. You gain one ally.
 
-## Backstory
+OTHER
+
+- **Fateful moments**: A famous mage saw potential in you and tutored you in the arcane arts. You have a spellbook and the Magic Initiate feat from the Player’s Handbook. 
+- **Fav food**: Hot beef soup with fresh bread 
+- **Mysterious secret**: An old seer once touched my forehead and gave me a vision of a flaming bird chained beneath a mountain squirming and wailing in the darkness.
+
+---
+
+## Relationships
+
+| Name    | Relationship (-3/+3) | Type | Notes  |
+| ------- | :------------------: | ---- | ------ |
+|         |                      |      |        |  

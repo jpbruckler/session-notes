@@ -16,7 +16,7 @@ tags:
 ---
 # The Green Tankard
 
-Campaign:: [[300 DnD/30-39 Campaigns/31 DotMM/index]]
+Campaign:: [[32.01 DotMM]]
 Setting:: [[Forgotten Realms]]
 NotableNPCs:: [[Jaffe Eravan]] 
 

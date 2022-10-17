@@ -9,7 +9,7 @@ aliases: []
 # [[Lords of Waterdeep]]
 
 !!! info
-    campaign:: [[300 DnD/30-39 Campaigns/31 DotMM/index]]
+    campaign:: [[32.01 DotMM]]
     setting:: Forgotten Realms
     leader:: [[Laeral Silverhand]]
     related:: [[Waterdeep]], [[Harpers]], [[Lords Alliance]], [[Shadow Thieves]], [[Knights of the Shield]], [[Confluence]]

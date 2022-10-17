@@ -9,7 +9,7 @@ aliases: []
 # [[Lords' Alliance]]
 
 !!! info
-    campaign:: [[300 DnD/30-39 Campaigns/31 DotMM/index]]
+    campaign:: [[32.01 DotMM]]
     setting:: Forgotten Realms
     leader:: 
     related:: 

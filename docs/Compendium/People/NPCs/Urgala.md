@@ -29,7 +29,7 @@ tags:
 
 ## Quests
 
-- [[Silhouette Murder]]
+- 
 
 ## Statblock
 

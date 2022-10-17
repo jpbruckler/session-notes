@@ -2,57 +2,49 @@ filecopy:
   campaigns:
     - name: "scalinea"
       src: 
-        - "../git/conservatorium/300 DnD/30-39 Campaigns/32 SumonHo/300.32.01 SessionNotes"
+        - "../git/conservatorium/30-39 TTRPG/32 Campaigns/32.02 SumonHo/SessionNotes"
       dst: 
         - "./docs/Campaigns/Scalinea/Session Notes"
     - name: "dotmm"
       src: 
-        - "../git/conservatorium/300 DnD/30-39 Campaigns/31 DotMM/300.31.01 SessionNotes"
+        - "../git/conservatorium/30-39 TTRPG/32 Campaigns/32.01 DotMM/SessionNotes"
       dst: 
         - "./docs/Campaigns/DotMM/Session Notes"
   compendiums:
     - name: 'People'
       src: 
-        - "../git/conservatorium/300 DnD/40-49 Compendium/40 People/300.40.01 Characters"
-        - "../git/conservatorium/300 DnD/40-49 Compendium/40 People/300.40.02 NPCs"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.01 Characters"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.02 NPCs"
       dst: 
         - "./docs/Compendium/People/Characters"
         - "./docs/Compendium/People/NPCs"
     - name: 'History'
       src: 
-        - "../git/conservatorium/300 DnD/40-49 Compendium/41 History"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.03 Historical Events"
       dst: 
         - "./docs/Compendium/History"
     - name: 'Geography'
       src:
-        - "../git/conservatorium/300 DnD/40-49 Compendium/42 Geography/300.42.01 Regions"
-        - "../git/conservatorium/300 DnD/40-49 Compendium/42 Geography/300.42.02 Settlements"
-        - "../git/conservatorium/300 DnD/40-49 Compendium/42 Geography/300.42.03 Natural Locations"
-        - "../git/conservatorium/300 DnD/40-49 Compendium/42 Geography/300.42.04 Services"
-        - "../git/conservatorium/300 DnD/40-49 Compendium/42 Geography"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.04 Geography"
       dst:
-        - "./docs/Compendium/Geography/Regions"
-        - "./docs/Compendium/Geography/Settlements"
-        - "./docs/Compendium/Geography/Natural Locations"
-        - "./docs/Compendium/Geography/Services"
         - "./docs/Compendium/Geography"
     - name: 'Religion'
       src:
-        - "../git/conservatorium/300 DnD/40-49 Compendium/43 Religion"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.05 Religion"
       dst:
         - "./docs/Compendium/Religion"
     - name: 'Organizations'
       src:
-        - "../git/conservatorium/300 DnD/40-49 Compendium/44 Organizations"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.06 Organizations"
       dst:
         - "./docs/Compendium/Factions"
     - name: 'Magic'
       src:
-        - "../git/conservatorium/300 DnD/40-49 Compendium/45 Magic"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.07 Magic"
       dst:
         - "./docs/Compendium/Magic"
     - name: 'Bestiary'
       src:
-        - "../git/conservatorium/300 DnD/40-49 Compendium/46 Bestiary"
+        - "../git/conservatorium/30-39 TTRPG/33 Compendium/33.08 Bestiary"
       dst:
         - "./docs/Compendium/Bestiary"

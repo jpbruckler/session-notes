@@ -1,7 +1,4 @@
----
-tags:
-  - incomplete
----
+
 
 Guidebook…
 

@@ -28,7 +28,7 @@ Murdered by [[Eddie]] because of greed.
 
 ## Quests
 
-- [[Silhouette Murder]]
+- 
 
 ## Statblock
 

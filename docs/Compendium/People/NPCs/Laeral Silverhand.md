@@ -15,7 +15,7 @@ banner_x: 0.5
 # [[Laeral Silverhand]]
 
 !!! info
-    campaign:: [[300 DnD/30-39 Campaigns/31 DotMM/index]]
+    campaign:: [[32.01 DotMM]]
     factions:: [[Lords' Alliance]], [[Lords of Waterdeep]]
     related:: 
     class:: Wizard

@@ -15,7 +15,7 @@ tags:
 ---
 # Aimesland
 
-Campaign:: [[Sumon-Ho]]
+Campaign:: [[32.02 SumonHo]]
 Setting:: [[Scalinea]]
 
 

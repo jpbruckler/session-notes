@@ -1,46 +1,66 @@
 ---
 title: Ahmed Noke
-type: npc
-campaign: dotmm
-setting: forgottenrealms
-aliases: 
-created: 2022-05-22 01:09:35
-modified: 2022-05-22 01:09:35
-person:
-  status: deceased
-  race: human
-  gender: male
-  name: Ahmed Noke
-  lastlocation: 
-factions: []
+id: b04dbef3-6f4f-4677-b41b-c7d13ee0431e
+created: 2022-10-16
 tags:
-  - ttrpg/npc
-  - ttrpg/campaign/dotmm
-  - ttrpg/campaign/dotmm/npc
-  - ttrpg/setting/forgotten-realms
+  - ttrpg/character
 ---
 
-# Ahmed Noke
+!!! info
+    - campaign:: [[32.01 DotMM]]
+    - factions:: 
+    - related:: [[Finethir Shinebright]]
+    - class:: 
+    - type:: npc, ttrpg
+    - status:: 💀
+    - lastLocation:: 
 
-## Notes
+# [[Ahmed Noke]]
 
+    [!infobox|right]
+    # Ahmed Noke
+    ![[Adele_Truebranch.jpg|275]]
+    ###### General
+    |       |       |     |      |
+    | --- | --- | --- | --- |
+    | HP | 18 | AC | 18 |
+    | LVL | 3 Paladin |  AL | CG | 
+    ###### Stats
+    | Title | Value |
+    | :----: | :----: |
+    | STR |  +0 (10) |
+    | DEX |  +0 (10) |
+ | CON | +0 (10) |
+    | INT | +0 (10) |
+    | WIS | +0 (10) |
+    | CHA | +0 (10) 
+    ###### Senses
+    | | |
+    |---|---|
+    | 👁️ | 11 |
+    |  :fas_magnifying_glass:   | 10 |
+    |  :luc_lightbulb: | 11 |
 
-## Quests
+---
+**Goals**
+Short term:
+ - ?
 
+Mid term:
+- ?
 
-## Statblock
+Long term:
+- ?
+---
+**Notes**
 
-```statblock
-name: Ahmed Noke
-monster: Commoner
-```
+---
+**Background**
 
+---
 
-## Factions & Relationships
-| Faction Name             | Relationship | Entity Type |
-| ------------------------ |:------------:| ----------- |
-| [[The Last Blades]]      |      -3      | Faction     |
-| [[Finethir Shinebright]] |      -3      | NPC         | 
+## Relationships
 
-
-
+| Name    | Relationship (-3/+3) | Type | Notes  |
+| ------- | :------------------: | ---- | ------ |
+|         |                      |      |        |  

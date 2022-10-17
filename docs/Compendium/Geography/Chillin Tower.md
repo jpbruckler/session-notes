@@ -16,7 +16,7 @@ tags:
 ---
 # Chillin Tower
 
-Campaign:: [[30-39 TTRPG/34 Campaigns/34.01 SumonHo/34.01 SumonHo|34.01 SumonHo]]
+Campaign:: [[30-39 TTRPG/32 Campaigns/32.02 SumonHo/32.02 SumonHo|34.01 SumonHo]]
 Setting:: [[Scalinea]]
 NotableNPCs:: [[Danger Inc.]]
 Tags: [[Frukar Excelar]], [[The Hood|The Hood]], [[Knight of the Night]]

@@ -1,22 +1,18 @@
 ---
 title: "Sword Coast"
 type: location
-campaign: dotmm
 setting: Forgotten Realms
-created: 2022-07-24 09:21:07
-location:
-  name: "Sword Coast"
-  locationtype: "Region"
-  region: "sword coast"
-  settlement: 
+created: 2022-07-24
 tags:
   - ttrpg/campaign/dotmm
-  - ttrpg/setting/forgotten-realms/location/region/sword-coast
+  - ttrpg/forgotten-realms/location/region
 ---
 # Sword Coast
 
-Campaign:: [[30-39 TTRPG/34 Campaigns/34.02 DotMM/34.02 DotMM|34.02 DotMM]]
-Setting:: [[Forgotten Realms]]
+!!! info
+    - campaign:: [[32.01 DotMM|DotMM]], AotR
+    - setting:: [[Forgotten Realms]]
+    - locationType:: region
 
 ## Description
 

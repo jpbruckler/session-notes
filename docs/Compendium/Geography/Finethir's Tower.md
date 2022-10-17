@@ -16,7 +16,7 @@ tags:
 ---
 # Finethir's Tower
 
-Campaign:: [[30-39 TTRPG/34 Campaigns/34.02 DotMM/34.02 DotMM|34.02 DotMM]]
+Campaign:: [[32.01 DotMM]]
 Setting:: [[Forgotten Realms]]
 GovernmentType::
 NotableNPCs::[[Finethir Shinebright]]

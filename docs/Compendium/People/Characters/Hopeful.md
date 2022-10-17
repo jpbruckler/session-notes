@@ -1,48 +1,70 @@
 ---
 title: Hopeful
-type: character
-campaign: sumonho
-setting: scalinea
-aliases: 
-created: 2022-04-30 08:17:56
-modified: 2022-04-30 08:17:56
-person:
-  status: alive
-  race: tiefling
-  gender: female
-  name: "Hopeful"
-  player: "Kate Vajda"
-  class: ["Warlock"]
-  lastlocation: 
-factions: ["Damage Inc.", "SLD"]
+id: 285da3a9-c5cc-4832-a8d1-501ebe407a02
+created: 2022-10-13
 tags:
-  - ttrpg/campaign/sumonho/pc
-  - ttrpg/campaign/sumonho
-  - ttrpg/faction/damage-inc
-  - ttrpg/faction/sld
+  - ttrpg/character
 ---
 
-# Hopeful
+!!! info
+    - campaign:: [[32.02 SumonHo]]
+    - factions:: 
+    - related:: 
+    - class:: Warlock
+    - player:: [[@Kate Vajda]]
+    - ddbLink:: [Hopeful](https://www.dndbeyond.com/characters/37408674)
+    - type:: character, ttrpg
+    - status:: 💓
+    - lastLocation:: [[30-39 TTRPG/33 Compendium/33.04 Geography/Mountain Sanctuary]]
 
-## Notes
+# [[Hopeful]]
 
+    [!infobox|right]
+    # Hopeful
+    ![[Hopeful.jpeg|275]]
+    ###### General
+    |       |       |     |      |
+    | --- | --- | --- | --- |
+    | HP | 39 | AC | 14 |
+    | LVL | 6 Warlock |  AL | CG | 
+    ###### Stats
+    | Title | Value |
+    | :----: | :----: |
+    | STR |  -1 (8) |
+    | DEX |  +2 (14) |
+    | CON | +1 (12) |
+    | INT | +1 (14) |
+    | WIS | +1 (12) |
+    | CHA | +4 (18) | 
+    ###### Senses
+    | | |
+    |---|---|
+    | 👁️ | 11 |
+    |  :fas_magnifying_glass:   | 15 |
+    |  :luc_lightbulb: | 11 |
 
-## Character Sheet
-<iframe src="https://www.dndbeyond.com/characters/37408674" name="DDBCharacterBlock" width=800 height=800 />
+---
+**Goals**
+Short term:
+ - ?
 
+Mid term:
+- ?
 
-## Factions & Relationships
+Long term:
+- ?
+---
+**Notes**
 
-| Faction Name | Relationship |
-| ------------ |:------------:|
-| [[Danger Inc.]] | +2 |
+- Currently back with [[Hun-Hoksa]] at the [[30-39 TTRPG/33 Compendium/33.06 Organizations/Mountain Sanctuary]]
 
+---
+**Background**
 
-## Character Relationships
+---
 
-| Character Name | Relationship | Character Type |
-| -------------- |:------------:|:--------------:|
-|                |              |                |
+## Relationships
 
-
-## Backstory
+| Name    | Relationship (-3/+3) | Type | Notes  |
+| ------- | :------------------: | ---- | ------ |
+|         |                      |      |        |  

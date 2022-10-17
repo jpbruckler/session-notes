@@ -10,7 +10,6 @@ person:
   job: patron
 tags:
   - ttrpg/npc
-  - incomplete
   - ttrpg/patron
   - ttrpg/campaign/sumonho
 ---

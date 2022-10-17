@@ -1,34 +1,57 @@
 ---
 title: Gwyn Hovey
-type: character
-campaign: sumonho
-setting: scalinea
-aliases: 
-  - Gwyn
-  - Sigmund
-created: 2022-04-30 08:14:48
-modified: 2022-04-30 08:14:48
-person:
-  status: alive
-  race: 
-  gender: 
-  name: "Gwyn Hovey"
-  player: "John Bruckler"
-  class: ["Cleric"]
-  lastlocation: 
-factions: ["Damage Inc.","SLD","The Dark House"]
+id: 45d99378-eb38-476b-bdbc-901b33e64cab
+created: 2022-10-13
 tags:
-  - ttrpg/campaign/sumonho/pc
-  - ttrpg/campaign/sumonho
-  - ttrpg/faction/damage-inc
-  - ttrpg/faction/church-of-sutamo
-  - ttrpg/faction/sld
+  - ttrpg/character
 ---
 
-# Gwyn Hovey
+!!! info
+    - campaign:: [[32.02 SumonHo]]
+    - factions:: [[Danger Inc.]], [[SLD]], [[The Darkhouse]], [[Sutamo]], [[Diancecht]]
+    - related:: [[The Darkhouse]], [[Hun-Hoksa]]
+    - class:: Cleric
+    - player:: John Bruckler
+    - ddbLink:: [Gwyn Hovey](https://www.dndbeyond.com/characters/34229693)
+    - type:: character, ttrpg
+    - status:: 💓
+    - lastLocation:: 
 
-## Notes
+# [[Gwyn Hovey]]
 
+    [!infobox|right]
+    # Gwyn Hovey
+    ![[GwynHovey.png|275]]
+    ###### General
+    |       |       | 
+    | --- | --- | 
+    | Lvl/Class: | 7 Cleric (Twilight)  |  
+    | Patron: | Sutamo / Diancecht | 
+    ###### Stats
+    |          |           |         |        |
+    | :----: | :----: | :---: | :---: |
+    | STR |  +2 (15) | 🛡️ | 21 |
+    | DEX |  +0 (10) | 💖 | 57 |
+   | CON | +2 (14) | 👀 | 14 |
+    | INT | +0 (10)  | 🔍 | 10 |
+    | WIS | +4 (18)  | 💡 | 17 |
+    | CHA | +0 (10) | ➕| 0 |
+
+
+---
+**Goals**
+Short term:
+ - Collect 'em all [[Penetration Stone|Power Stones]]
+
+Mid term:
+- Expand the Church
+- Destroy whatever evil is gathering the stones
+- Save [[Bronson]] from [[Dark Might]]
+
+Long term:
+- Why was I brought back?
+---
+**Notes**
 1. Starting the day:
     - **Channel Divinity: Twilight Sanctuary**
         - As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are incapacitated or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
@@ -44,22 +67,16 @@ tags:
     - **Aura of Vitaility**
         - Healing energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. You can use a bonus action to cause one creature in the aura (including you) to regain 2d6 hit points.
           **Note:** Outside of battle, this is **20d6** HP restored
+---
+**Background**
 
+---
 
-## Character Sheet
-<iframe src="https://www.dndbeyond.com/characters/34229693" name="DDBCharacterBlock" width=800 height=800 />
+## Relationships
 
-
-## Factions & Relationships
-
-| Faction Name      | Relationship | Relationship Type        |
-| ----------------- |:------------:| ------------------------ |
-| [[Danger Inc.]]   |      +3      | Faction                  |
-| [[Peacekeepers]]  |      +2      | Faction                  |
-| [[The Darkhouse]] |      +2      | Faction                  |
-| [[Achilles]]      |      +3      | Contact in The Darkhouse |
-
-
-
-## Backstory
-
+| Name      | Relationship | Type        | Notes |
+| ----------------- |:------------:| ------------------------ | --- |
+| [[Danger Inc.]]   |      +3      | Faction                  | |
+| [[Peacekeepers]]  |      +2      | Faction                  | |
+| [[The Darkhouse]] |      +2      | Faction                  | |
+| [[Achilles]]      |      +3      | Contact in The Darkhouse | |

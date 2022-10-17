@@ -1,25 +1,22 @@
 ---
-title: "Barthen's Provisions"
-type: location
-campaign: aotr
-setting: Forgotten Realms
-created: 2022-07-24 07:30:21
-location:
-  name: "Barthen's Provisions"
-  locationtype: "Merchant"
-  region: "Sword Coast"
-  settlement: 
+title: Barthen's Provisions
+id: 40f2c0c7-89d8-4a5d-b6c2-13583f97d903
+created: 2022-10-16
 tags:
-  - ttrpg/setting/forgotten-realms/location/region/sword-coast
-  - ttrpg/campaign/aotr
-  - ttrpg/setting/forgotten-realms/location/merchant/barthen's-provisions
+  - ttrpg/location
+  - ttrpg/setting/forgotten-realms/location/region/sword-coast-north
+  - ttrpg/setting/forgotten-realms/location/trading-post
 ---
-# Barthen's Provisions
 
-Campaign:: [[30-39 TTRPG/34 Campaigns/34.02 DotMM/34.02 DotMM|34.02 DotMM]]
-Setting:: [[Forgotten Realms]]
-GovernmentType::
-NotableNPCs::
+# [[Barthen's Provisions]]
+
+
+!!! info
+    - campaign:: [[32.01 DotMM]]
+    - setting:: [[Forgotten Realms]]
+    - type:: location, ttrpg
+    - locationType:: trading post
+    - location:: [[Phandalin]], [[Sword Coast North]]
 
 ## Description
 
@@ -36,11 +33,8 @@ Sometime in late 1495 DR or early 1496 DR, the company went out of business. The
 ## People in Barthen's Provisions
 
 ```dataview
-TABLE type AS "Person Type", factions AS Factions FROM #ttrpg 
-WHERE LastLocation = [[Barthen's Provisions]]
-  and person.status = "alive"
+TABLE type AS "Person Type", status AS Status, factions AS Factions FROM #ttrpg 
+WHERE lastLocation = [[Barthen's Provisions]]
 SORT file.name asc
 ```
-
-
 

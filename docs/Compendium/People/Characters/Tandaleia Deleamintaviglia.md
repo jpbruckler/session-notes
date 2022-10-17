@@ -7,7 +7,7 @@ aliases: []
 ---
 
 !!! info "Metadata "
-    campaign:: [[300 DnD/30-39 Campaigns/31 DotMM/index]]
+    campaign:: [[32.01 DotMM]]
     factions::  [[The Legion of the Emerald Goat]], [[Church of Tymora]]
     related:: [[Tsakor]], [[Gwenith Serena]], [[Goradaar Delmirev]], [[Hani Wildheart]], [[Olahna Hanali]], [[Tymora]], [[Jorlon]]
     class:: cleric

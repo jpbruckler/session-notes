@@ -3,7 +3,8 @@ title: Adele Truebranch
 id: af000420-ed79-4834-a692-4e57eb480e07
 date: 2022-09-11
 created: 2022-09-11, 10:28:14
-aliases: []
+tags:
+  - ttrpg/character
 ---
 
 !!! info

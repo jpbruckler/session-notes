@@ -19,7 +19,7 @@ tags:
 
 # Ravaged Lands
 
-Campaign:: [[34.01 SumonHo]]
+Campaign:: [[30-39 TTRPG/32 Campaigns/32.02 SumonHo/32.02 SumonHo]]
 Setting:: [[Scalinea]]
 
 

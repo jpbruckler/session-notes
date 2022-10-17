@@ -1,54 +1,77 @@
 ---
 title: Kereshi Khill
-type: character
-campaign: sumonho
-setting: scalinea
-aliases: 
+id: 04925de6-be6e-4241-8e94-3d2628de9a17
+created: 2022-10-13
+aliases:
   - Kereshi
   - Regina Philange
-created: 2022-04-30 08:19:19
-modified: 2022-04-30 08:19:19
-person:
-  status: alive
-  race: 
-  gender: 
-  name: "Kereshi Khill"
-  player: "Michael Bruckler"
-  class: ["Barbarian","Fighter"]
-  lastlocation: 
-factions: ["Damage Inc.", "SLD"]
 tags:
-  - ttrpg/campaign/sumonho/pc
-  - ttrpg/campaign/sumonho
-  - ttrpg/faction/damage-inc
-  - ttrpg/faction/sld
+  - ttrpg/character
 ---
 
-# Kereshi Khill
+!!! info
+    - campaign:: [[32.02 SumonHo]]
+    - factions:: [[Danger Inc.]], [[SLD]]
+    - related:: 
+    - class:: Barbarian/Fighter
+    - player:: Michael Bruckler
+    - ddbLink:: [Kereshi](https://www.dndbeyond.com/characters/19442561)
+    - type:: character, ttrpg
+    - status:: 💓
+    - lastLocation:: 
 
-## Notes
+# [[Kereshi Khill]]
 
+    [!infobox|right]
+    # Kereshi Khill
+    ![[KereshiKhill.jpeg|275]]
+    ###### General
+    |       |       |     |      |
+    | --- | --- | --- | --- |
+    | HP | 85 | AC | 20 |
+    | LVL | 5 Barbarian/2 Fighter |  AL | CG | 
+    ###### Stats
+    | Title | Value |
+    | :----: | :----: |
+    | STR |  +4 (19) |
+    | DEX |  +2 (14) |
+   | CON | +4 (18) |
+    | INT | -1 (8) |
+    | WIS | +1 (12) |
+    | CHA | -1 (8) 
+    ###### Senses
+    | | |
+    |---|---|
+    | 👁️ | 14 |
+    |  :fas_magnifying_glass:   | 9 |
+    |  :luc_lightbulb: | 11 |
 
-## Character Sheet
-<iframe src="https://www.dndbeyond.com/characters/19442561" name="DDBCharacterBlock" width=800 height=800 />
+---
+**Goals**
+Short term:
+ - ?
 
+Mid term:
+- ?
 
-## Factions & Relationships
+Long term:
+- ?
+---
+**Notes**
 
-| Faction Name    | Relationship |
-| --------------- |:------------:|
-| [[Danger Inc.]] |      +3      |
-| [[SLD]]         |      +1      | 
+---
+**Background**
 
+---
 
-## Character Relationships
+## Relationships
 
-| Character Name                  | Relationship | Character Type |
-| ------------------------------- |:------------:|:--------------:|
-| [[Fuzula Fastbritches\|Fuzula]] |      +3      |       PC       |
-| [[Elinor]]                      |      +2      |       PC       |
-| [[Gwyn Hovey\|Gwyn]]            |      +2      |       PC       |
-| [[Hopeful]]                     |      +1      |       PC       | 
-
-
-## Backstory
+| Name    | Relationship (-3/+3) | Type | Notes  |
+| ------- | :------------------: | ---- | ------ |
+| [[Danger Inc.]] |      +3      | Faction | |
+| [[SLD]]         |      +1      | Faction | |
+| [[Fuzula Fastbritches\|Fuzula]] |      +3      |       PC       | |
+| [[Elinor]]                      |      +2      |       PC       | |
+| [[Gwyn Hovey\|Gwyn]]            |      +2      |       PC       | |
+| [[Hopeful]]                     |      +1      |       PC       | |
+  
