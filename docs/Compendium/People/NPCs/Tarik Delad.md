@@ -1,31 +1,35 @@
 ---
-title: Ahmed Noke
-id: b04dbef3-6f4f-4677-b41b-c7d13ee0431e
-created: 2022-10-16
+title: Tarik Delad
+id: 22fda7e8-5db9-4a54-bec8-b16846a34e33
+created: 2022-11-01
 tags:
   - ttrpg/character
+  - ttrpg/campaign/dotmm/npc
 ---
+
 
 !!! info
     - campaign:: [[32.01 DotMM]]
     - factions:: 
-    - related:: [[Finethir Shinebright]]
-    - class:: 
+    - related:: [[Barony of Aldwulf]]
+    - status:: 💓
     - type:: npc, ttrpg
-    - status:: 💀
-    - lastLocation:: 
-
-# [[Ahmed Noke]]
-
-    [!infobox|right]
-    # Ahmed Noke
-    ![[Pasted image 20221022004738.png|275]]
-
+    - class::
+    - lastLocation:: [[Barony of Aldwulf]]
+    - profession:: steward of Aldwulf
 
 ---
+
+# [[Tarik Delad]]
+
+!!! info
+    ###### Tarik Delad
+    ![[TarikDelad.jpg|275]]
+
+
 **Goals**
 Short term:
- - ?
+ - Welcome the new barons, and 
 
 Mid term:
 - ?

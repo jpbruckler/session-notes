@@ -35,7 +35,7 @@ def replaceAdmonition(filepath, flags=0):
 
 
 def main():
-    with open('config.yaml') as f:
+    with open('update_cfg.yaml') as f:
         config = yaml.safe_load(f)
 
     
@@ -51,7 +51,7 @@ def main():
                         print(f"Processing source directory: {src}")
                         
                         # Copy files
-                        for filepath in Path(src).rglob('*.md'):
+                        for filepath in Path(src).rglob('*.'):
                             print(f"  Copying file: {filepath.name} => {dst}")
                             #replaceAdmonition(filepath)
                             shutil.copy(filepath, dst)

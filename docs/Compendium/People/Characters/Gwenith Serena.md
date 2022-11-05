@@ -1,10 +1,14 @@
 ---
 title: Gwenith Serena
-id: 8b35e53e-7df8-4b1c-b40f-d6d08c6a5842
-created: 2022-10-13
+id: b2f83bc2-d65b-42e9-ae6c-23cf22d9d5bf
+created: 2022-10-22
+aliases:
+  - Gwen
 tags:
   - ttrpg/character
+  - ttrpg/campaign/dotmm/character
 ---
+
 
 !!! info
     - campaign:: [[32.01 DotMM]]
@@ -17,33 +21,29 @@ tags:
     - status:: 💓
     - lastLocation:: [[Vendare]]
 
+---
+
 # [[Gwenith Serena]]
 
-    [!infobox|right]
-    # Gwenith Serena
-    ![[Gweneth Serena.jpeg|275]]
+!!! info
+    ###### Gwenith Serena
+    ![[Gweneth_Serena.jpeg|275]]
     ###### General
-    |       |       |     |      |
-    | --- | --- | --- | --- |
-    | HP | 52 | AC | 15 |
-    | LVL | 7 Druid |  AL | N | 
+    |            |     | 
+    | ---------- | --- | 
+    | Lvl/Class: |     |  
+    | Patron:    |     | 
     ###### Stats
-    | Title | Value |
-    | :----: | :----: |
-    | STR |  +0 (10) |
-    | DEX |  +3 (17) |
-    | CON | +2 (14) |
-    | INT | +1 (12) |
-    | WIS | +3 (17) |
-    | CHA | -1 (8) 
-    ###### Senses
-    | | |
-    |---|---|
-    | 👁️ | 16 |
-    |  :fas_magnifying_glass:   | 11 |
-    |  :luc_lightbulb: | 16 |
+    | Atrribute |       | Other |       |
+    | :----: | :------: | :---: | :---: |
+    | STR    | +0 (10)  | 🛡️   | 17    |
+    | DEX    | +3 (17)  | 💖   | 52    |
+    | CON    | +2 (14)  | 👀   | 16    |
+    | INT    | +1 (12)  | 🔍   | 11    |
+    | WIS    | +3 (17)  | 💡   | 16    |
+    | CHA    | -1 (8)   | ➕   | 3     |
 
----
+
 **Goals**
 Short term:
  - ?
@@ -56,11 +56,10 @@ Long term:
 ---
 **Notes**
 
-- Currently in [[Vendare]], acting as the Baron of Aldwulf in the party's absence.
+- Currently in Vendare, watching over [[Aldwulf Manor]], and serving as the Baron of Aldwulf.
 
 ---
 **Background**
-
 
 Powerful Family Relationships:
 

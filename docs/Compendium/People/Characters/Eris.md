@@ -1,10 +1,85 @@
 ---
 title: Eris
+id: 142edd3d-7889-4479-af44-d742cf0f8af7
+created: 2022-10-23
+tags:
+  - ttrpg/character
+  - ttrpg/campaign/dotmm/character
+---
+
+
+!!! info
+    - campaign:: [[32.01 DotMM]]
+    - factions:: 
+    - related:: 
+    - status:: 
+    - type:: character, ttrpg
+    - class:: 
+    - player:: 
+    - ddbLink:: 
+
+---
+
+# [[Eris]]
+
+!!! info
+    ###### Eris
+    ![[Eris.png|275]]
+    ###### General
+    |            |     | 
+    | ---------- | --- | 
+    | Lvl/Class: |     |  
+    | Patron:    |     | 
+    ###### Stats
+    | Atrribute |       | Other |       |
+    | :----: | :------: | :---: | :---: |
+    | STR    | +0 (10)  | 🛡️   | 21    |
+    | DEX    | +0 (10)  | 💖   | 57    |
+    | CON    | +0 (10)  | 👀   | 12    |
+    | INT    | +0 (10)  | 🔍   | 11    |
+    | WIS    | +0 (10)  | 💡   | 15    |
+    | CHA    | +0 (10)  | ➕   | 0     |
+
+
+**Goals**
+Short term:
+ - ?
+
+Mid term:
+- ?
+
+Long term:
+- ?
+---
+**Notes**
+
+---
+**Background**
+
+---
+
+## Relationships
+
+| Name    | Relationship (-3/+3) | Type | Notes  |
+| ------- | :------------------: | ---- | ------ |
+|         |                      |      |        |  
+
+
+
+
+
+
+
+
+
+---
+title: Eris
 id: c78d0971-609d-494e-b1a0-b48d9bc2ff7f
 created: 2022-10-13
 tags:
   - ttrpg/character
 ---
+
 
 !!! info
     - campaign:: [[32.01 DotMM]]
@@ -21,7 +96,7 @@ tags:
 
     [!infobox|right]
     # Eris
-    ![[cianeris.png|275]]
+    ![[Eris.png|275]]
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |

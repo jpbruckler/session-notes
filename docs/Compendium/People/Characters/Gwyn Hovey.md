@@ -1,44 +1,46 @@
 ---
 title: Gwyn Hovey
-id: 45d99378-eb38-476b-bdbc-901b33e64cab
-created: 2022-10-13
+id: 856254dc-9f2d-47a0-958c-e12ebf357231
+created: 2022-10-22
 tags:
   - ttrpg/character
+  - ttrpg/sumonho/character
 ---
+
 
 !!! info
     - campaign:: [[32.02 SumonHo]]
     - factions:: [[Danger Inc.]], [[SLD]], [[The Darkhouse]], [[Sutamo]], [[Diancecht]]
-    - related:: [[The Darkhouse]], [[Hun-Hoksa]]
+    - related::  [[The Darkhouse]], [[Hun-Hoksa]]
+    - status:: 💓
+    - type:: character, ttrpg
     - class:: Cleric
     - player:: John Bruckler
     - ddbLink:: [Gwyn Hovey](https://www.dndbeyond.com/characters/34229693)
-    - type:: character, ttrpg
-    - status:: 💓
-    - lastLocation:: 
+
+---
 
 # [[Gwyn Hovey]]
 
-    [!infobox|right]
-    # Gwyn Hovey
-    ![[GwynHovey.png|275]]
+!!! info
+    ###### Gwyn Hovey
+    ![[Gwyn_Hovey.png|275]]
     ###### General
-    |       |       | 
-    | --- | --- | 
-    | Lvl/Class: | 7 Cleric (Twilight)  |  
-    | Patron: | Sutamo / Diancecht | 
+    |            |     | 
+    | ---------- | --- | 
+    | Lvl/Class: |   7 Cleric (Twilight)  |  
+    | Patron:    |    [[Sutamo]], [[Diancecht]] | 
     ###### Stats
-    |          |           |         |        |
-    | :----: | :----: | :---: | :---: |
-    | STR |  +2 (15) | 🛡️ | 21 |
-    | DEX |  +0 (10) | 💖 | 57 |
-   | CON | +2 (14) | 👀 | 14 |
-    | INT | +0 (10)  | 🔍 | 10 |
-    | WIS | +4 (18)  | 💡 | 17 |
-    | CHA | +0 (10) | ➕| 0 |
+    | Atrribute |          | Other |       |
+    | :----:    | :------: | :---: | :---: |
+    | STR       | +2 (15)  | 🛡️   | 21    |
+    | DEX       | +0 (10)  | 💖   | 57    |
+    | CON       | +2 (14)  | 👀   | 14    |
+    | INT       | +0 (10)  | 🔍   | 10    |
+    | WIS       | +4 (18)  | 💡   | 17    |
+    | CHA       | +0 (10)  | ➕   | 0     |
 
 
----
 **Goals**
 Short term:
  - Collect 'em all [[Penetration Stone|Power Stones]]

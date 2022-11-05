@@ -4,6 +4,8 @@ type: faction
 campaign: dotmm
 setting: Forgotten Realms
 aliases:
+  - "Heroes of Vendare"
+  - "Barons of Aldwulf"
 created: 2022-07-24 03:03:15
 tags:
   - ttrpg/campaign/dotmm
