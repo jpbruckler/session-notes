@@ -19,23 +19,25 @@ tags:
 
 # [[Eljas]]
 
-    [!infobox|right]
-    # Eljas
+!!! inline end
+    #### Eljas
     ![[eljas.png|275]]
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 18 | AC | 18 |
     | LVL | 3 Paladin |  AL | CG | 
+    
     ###### Stats
     | Title | Value |
-    | :----: | :----: |
+    | ---- | ---- |
     | STR |  +0 (10) |
     | DEX |  +0 (10) |
- | CON | +0 (10) |
+    | CON | +0 (10) |
     | INT | +0 (10) |
     | WIS | +0 (10) |
     | CHA | +0 (10) 
+    
     ###### Senses
     | | |
     |---|---|

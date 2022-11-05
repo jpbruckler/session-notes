@@ -22,7 +22,7 @@ tags:
 
 # [[Eris]]
 
-!!! info
+!!! inline end
     ###### Eris
     ![[Eris.png|275]]
     ###### General

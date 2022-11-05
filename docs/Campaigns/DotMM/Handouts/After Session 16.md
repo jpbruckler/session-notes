@@ -8,8 +8,8 @@ tags:
 
 # [[After Session 16]]
 
->[!aside]
->###### Metadata
+!!! info inline end
+    ###### Metadata
     - campaign:: [[32.01 DotMM]]
     - related:: 
     - summary::
@@ -27,8 +27,8 @@ The castle chamberlain (whom the party are now formally introduced to - his name
 
 Once the requests have been made, [[Ryland Saing|Ryland]] informs the party that their belongings have been moved from [[The Green Tankard]] into rooms within the Castle, as befitting their new rank. 
 
->[!info] Party Insight
->[[Eris]] - you note that many of the people within the castle walls are armed, even those sitting close to the count. Not so many that the unarmed person looks out of place, but you get the sense that the Count is a pragmatic man, and one used to fighting, or at least one used to needing to have a blade handy. That sense of pragmatism extends to how the castle is run, there's less an air of "high court" and more an air of military precision.
+!!! info Party Insight
+    [[Eris]] - you note that many of the people within the castle walls are armed, even those sitting close to the count. Not so many that the unarmed person looks out of place, but you get the sense that the Count is a pragmatic man, and one used to fighting, or at least one used to needing to have a blade handy. That sense of pragmatism extends to how the castle is run, there's less an air of "high court" and more an air of military precision.
 
 Many of the members of [[The Legion of the Emerald Goat]] have been on the outskirts of social status for much of their lives, so being thrust into the limelight, handed land and titles, while certainly exciting, didn't immediately sink in. As the day goes on it becomes more apparent how much of a shift this will be for the party. Making their way through the streets they're stopped more than once by folks whom the party's actions had impacted for the better. Discounts were freely given at merchants, children looked upon the party with awe as they walked past, it was a lot to take in.
 
@@ -65,20 +65,30 @@ The time spent in the lab was very fruitful. During the first few days [[Goradaa
 
 ### Gwen
 
+[[Gwenith Serena|Gwen]] found a jeweller that made her a necklace and a circlet of silver and brass shaped like mistletoe in exchange for some of the gems she had.
+
+During this week she spent a good deal of time outside of the immediate city, preferring the company of nature to the hustle and bustle of a city. Leaving the castle and city early in the morning and spending time in the wilderness working on her form with the scimitar and wild shaping into all manner of beasts. 
+
+During one of her excursions she happened upon an old man resting on a stump just off of a deer trail. When she approached he introduced himself as [[Gwit'hlan Le Scouzec]], the local druid. Gwen and he spoke for several days, and over the course of the conversations she found that there is a Druid Grove in the Barony of Aldwulf that has been without a Druid to keep it for the last 30 years. Gwit'hlan had been tending it up until a year ago when it became too much travel for him.
+
+The grove is ancient, the tree at the center being well over 1,500 years old. The old druid is sure that the grove is healthy, but wondered if Gwen would be able to look in on it, as she's been made a Baron of the area.
 
 ### Maggie
 
-- [[Tandaleia Deleamintaviglia|Maggie]] was called to Jorlon's study on the third day after the feast. When she arrived, [[Jorlon]] smiled at her - a rather uncharacteristic response to her presence. On his desk was a box made of a dark wood. A likeness of [[Tymora]] had been inlaid on the top of the box in mother of pearl with gold accents.
+[[Tandaleia Deleamintaviglia|Maggie]] was called to Jorlon's study on the third day after the feast. When she arrived, [[Jorlon]] smiled at her - a rather uncharacteristic response to her presence. On his desk was a box made of a dark wood. A likeness of [[Tymora]] had been inlaid on the top of the box in mother of pearl with gold accents.
   
-  Jorlon explained that he had heard of Maggie's request to find a Devotee's Censer to take with her on this new path she had been set upon. In the box was the Censer, Jorlon's most prized possession. He explained that it was given to him when he set out during his younger years in support of military operations in the region by the then High Priest of the church.
+Jorlon explained that he had heard of Maggie's request to find a Devotee's Censer to take with her on this new path she had been set upon. In the box was the Censer, Jorlon's most prized possession. He explained that it was given to him when he set out during his younger years in support of military operations in the region by the then High Priest of the church.
   
-  "A week ago I would never have dreamed I'd be passing it on to you, of all the Lady's clerics. I can't deny though that you have been changed by this business with Sakatha. You have a purpose about you, and I can think of no better owner for it than you."
+> "A week ago I would never have dreamed I'd be passing it on to you, of all the Lady's clerics. I can't deny though that you have been
+> changed by this business with Sakatha. You have a purpose about you, and I can think of no better owner for it than you."
   
-  Maggie was moved by the gesture, and insisted on making a donation to the church to the tune of 14,000gp.
+Maggie was moved by the gesture, and insisted on making a donation to the church to the tune of 14,000gp.
 
 
 ### Tsakor
 
-- The chamberlain informed [[Tsakor]] that the man he was looking for had been located already. His name was [[Quinn Crewe]], and he could be brought to the castle if Tsakor preferred. Otherwise he could be found near the outskirts of town where some temporary lodging had been erected for refugees that had made their way to the city.
+The chamberlain informed [[Tsakor]] that the man he was looking for had been located already. His name is [[Quinn Crewe]], and he could be brought to the castle if Tsakor preferred. Otherwise he could be found near the outskirts of town where some temporary lodging had been erected for refugees that had made their way to the city.
+
+[[Tsakor]] declined to have hiom brought to the castle and instead took a walk through [[Vendare]], making his way to the refugee camp. Asking around and with a description of [[Quinn Crewe|Quinn]] he was eventually able to find him.
 
 ## Chapter 3: The Second Week

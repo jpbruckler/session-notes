@@ -19,14 +19,15 @@ tags:
 
 # [[Goradaar Delmirev]]
 
-    [!infobox|right]
-    # Goradaar Delmirev
+!!! inline end
+    #### Goradaar Delmirev
     ![[Goradaar.png|275]]
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 37 | AC | 12 |
     | LVL | 7 Wizard |  AL | CN | 
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -36,6 +37,7 @@ tags:
     | INT | +3 (17) |
     | WIS | +2 (14) |
     | CHA | +1 (13) 
+    
     ###### Senses
     | | |
     |---|---|

@@ -25,17 +25,18 @@ tags:
 
 # [[Gwenith Serena]]
 
-!!! info
+!!! inline end
     ###### Gwenith Serena
     ![[Gweneth_Serena.jpeg|275]]
     ###### General
     |            |     | 
     | ---------- | --- | 
-    | Lvl/Class: |     |  
+    | Lvl/Class: |  7 Druid  |  
     | Patron:    |     | 
+
     ###### Stats
     | Atrribute |       | Other |       |
-    | :----: | :------: | :---: | :---: |
+    | ------ | -------- | ----- | ----- |
     | STR    | +0 (10)  | 🛡️   | 17    |
     | DEX    | +3 (17)  | 💖   | 52    |
     | CON    | +2 (14)  | 👀   | 16    |
@@ -84,12 +85,12 @@ Mysterious Secret:
 ## Relationships
 
 | Name    | Relationship (-3/+3) | Type | Notes  |
-| ------- | :------------------: | ---- | ------ |
+| ------- | -------------------- | ---- | ------ |
 |         |                      |      |        |  
 
 
 | Name                               | Relationship (-3/+3) | Type    | Notes |
-| ---------------------------------- |:--------------------:| ------- | ----- |
+| ---------------------------------- |----------------------| ------- | ----- |
 | [[The Legion of the Emerald Goat]] |          +3          | faction |       |
 | [[Fenneiros Serana]]               |          +1          | npc     | Gwen's brother      |
 
