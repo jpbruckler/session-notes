@@ -51,7 +51,7 @@ def main():
                         print(f"Processing source directory: {src}")
                         
                         # Copy files
-                        for filepath in Path(src).rglob('*.'):
+                        for filepath in Path(src).rglob('*.md'):
                             print(f"  Copying file: {filepath.name} => {dst}")
                             #replaceAdmonition(filepath)
                             shutil.copy(filepath, dst)

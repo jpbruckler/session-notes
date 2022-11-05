@@ -16,6 +16,11 @@ filecopy:
         - "../git/conservatorium/30-39 TTRPG/32 Campaigns/32.01 DotMM/SessionNotes"
       dst: 
         - "./docs/Campaigns/DotMM/Session Notes"
+    - name: "handouts"
+      src: 
+        - "../git/conservatorium/30-39 TTRPG/32 Campaigns/32.01 DotMM/Handouts"
+      dst: 
+        - "./docs/Campaigns/DotMM/Handouts"
   compendiums:
     - name: 'People'
       src: 
