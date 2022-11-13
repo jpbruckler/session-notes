@@ -2,14 +2,12 @@
 title: "Dinner"
 id: 06eed34a-5dd0-48ff-a467-b01855df7048
 created: 2022-11-13
-aliases:
-tags:
 ---
 
 # [[The Dinner]]
 
 !!! info
-    - related::
+    - related:: [[Chateau Le Scouzec]]
     - type:: note
 
 The evening of the dinner arrives. [[Tandaleia Deleamintaviglia|Maggie]], [[Tsakor]], [[Hani Wildheart|Hani]], and [[Eris]], dressed in their finest, all make their way to the front of Castle Vendare, expecting to see one of the Count's carriages waiting for them. Instead they are greeted by a large covered carriage. Roughly square in shape, the exterior wood paneling has lacquered in a glossy black. A delicate filigree in gold leaf is painted on both sides of the carriage, and each of the 4 lanterns that hang from its corners sit on polished brass pedastals.
