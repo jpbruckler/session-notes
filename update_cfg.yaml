@@ -23,12 +23,15 @@ filecopy:
       dst: 
         - "./docs/Campaigns/DotMM/Handouts"
   compendiums:
-    - name: 'People'
+    - name: 'Characters'
       src: 
         - "30-39 TTRPG/33 Compendium/33.01 Characters"
-        - "30-39 TTRPG/33 Compendium/33.02 NPCs"
       dst: 
         - "./docs/Compendium/People/Characters"
+    - name: 'NPCs'
+      src:
+        - "30-39 TTRPG/33 Compendium/33.02 NPCs"
+      dst:
         - "./docs/Compendium/People/NPCs"
     - name: 'History'
       src: 

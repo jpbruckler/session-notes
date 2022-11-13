@@ -8,14 +8,14 @@ aliases: []
 
 !!! info
     campaign:: [[32.01 DotMM]]
-    factions:: 
-    related:: 
-    class:: 
-    player:: 
-    ddbLink:: 
+    factions::
+    related::
+    class::
+    player::
+    ddbLink::
     type:: npc, ttrpg
-    status:: 
-    lastLocation:: 
+    status::
+    lastLocation::
 
 # [[Durnan]]
 

@@ -8,14 +8,14 @@ tags:
 
 !!! info
     - campaign:: [[32.00 AotR]]
-    - factions:: 
-    - related:: 
-    - class:: 
-    - player:: 
-    - ddbLink:: 
+    - factions::
+    - related::
+    - class::
+    - player::
+    - ddbLink::
     - type:: npc, ttrpg
-    - status:: 
-    - lastLocation:: 
+    - status::
+    - lastLocation::
 
 # [[Nundro Rockseeker]]
 

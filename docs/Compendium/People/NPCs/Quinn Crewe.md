@@ -2,6 +2,8 @@
 title: Quinn Crewe
 id: 42356d34-5bae-41b9-be8d-eaab4b4b258d
 created: 2022-10-31
+aliases:
+  - "Quinn"
 tags:
   - ttrpg/character
   - ttrpg/campaign/dotmm/npc
@@ -22,9 +24,11 @@ tags:
 
 # [[Quinn Crewe]]
 
-!!! info
+!!! info inline end
+
     ###### Quinn Crewe
     ![[QuinnCrewe.jpg|275]]
+
     ###### General
     - Alignment: Neutral Good
 

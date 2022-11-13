@@ -17,7 +17,7 @@ banner_x: 0.5
 !!! info
     campaign:: [[32.01 DotMM]]
     factions:: [[Lords' Alliance]], [[Lords of Waterdeep]]
-    related:: 
+    related::
     class:: Wizard
     externalLink:: https://forgottenrealms.fandom.com/wiki/Laeral_Silverhand
     type:: npc, ttrpg, character
@@ -25,8 +25,10 @@ banner_x: 0.5
     lastLocation:: [[Waterdeep]]
 
     [!infobox|right]
+
     # Anamanué Laeral Silverhand
     ![[laeral_silverhand.webp]]
+
     ###### Stats
     | Type |  Stat |
     |---|---|
@@ -39,11 +41,13 @@ banner_x: 0.5
     | Home | [[Waterdeep]], [[Sword Coast North]] |
     | Race | Human |
     | Patron Deity | [[Mystra]] |
+
     ###### Dates
     |   |   |
     |---|---|
     | Born | 765 DR |
     | Died | |
+
     ###### Other Statistics
     |    |    |
     |---|---|

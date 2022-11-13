@@ -32,7 +32,7 @@ tags:
 	- 1 saphire
 	- 1 emerald 
 
->[!info] Description
+!!! info "Description"
     6' tall humanoid stands before the seat. His heavily muscled body is covered in skin the color of soot. His pants around his waist stop at the top of his calves and match the blackish blue color of his cloak. His bare chest shows the dark leather strap of his scabbard. His left hand rests on a large dog with jet black fur and glowing red eyes.
 
 ## Quests

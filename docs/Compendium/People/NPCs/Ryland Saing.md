@@ -10,7 +10,7 @@ tags:
 
 !!! info
     - campaign:: [[32.01 DotMM]]
-    - factions:: 
+    - factions::
     - related:: [[Vendare]], [[John Brunis]]
     - status:: 💓
     - type:: npc, ttrpg
@@ -22,7 +22,8 @@ tags:
 
 # [[Ryland Saing]]
 
-!!! info
+!!! info inline end
+
     ###### Ryland Saing
     ![[RylandSaing.jpg|275]]
     - Age: 53

@@ -10,7 +10,7 @@ tags:
 
 !!! info
     - campaign:: [[32.01 DotMM]]
-    - factions:: 
+    - factions::
     - related:: [[Barony of Aldwulf]]
     - status:: 💓
     - type:: npc, ttrpg
@@ -22,7 +22,8 @@ tags:
 
 # [[Tarik Delad]]
 
-!!! info
+!!! info inline end
+
     ###### Tarik Delad
     ![[TarikDelad.jpg|275]]
 

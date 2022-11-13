@@ -1,30 +1,30 @@
 ---
-title: Grinvah Dreedasesh
-id: 628fc0d4-b5ea-49d1-ae96-8a5b09844593
-created: 2022-11-06
+title: Gabrielle Langlaise
+id: 6cd88bdc-5275-4212-870f-6061bb9e00ee
+created: 2022-11-13
 tags:
   - ttrpg/character
-  - ttrpg/campaign/sumonho/npc
+  - ttrpg/campaign/dotmm/npc
 ---
 
 
 !!! info
-    - campaign:: [[32.02 SumonHo]]
+    - campaign:: [[32.01 DotMM]]
     - factions::
-    - related::
-    - status::
+    - related:: [[Chateau Le Scouzec]], [[Gwit'hlan Scouzec]]
+    - status:: 💓
     - type:: npc, ttrpg
     - class::
-    - lastLocation::
+    - lastLocation:: [[Chateau Le Scouzec]]
     - profession::
 
 ---
 
-# [[Grinvah Dreedasesh]]
+# [[Gabrielle Langlaise]]
 
 !!! info inline end
 
-    ###### Grinvah Dreedasesh
+    ###### Gabrielle Langlaise
     ![[00-09 Meta/00 Attachments/00.02 TTRPG/Default.png|275]]
 
 
@@ -40,10 +40,10 @@ Long term:
 ---
 **Notes**
 
-- One of the heros that ultimately disrupted [[Glorgona]]'s ritual to effectively destroy the 
-
 ---
 **Background**
+
+The butler of [[Chateau Le Scouzec]].
 
 ---
 

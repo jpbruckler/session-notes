@@ -8,16 +8,17 @@ tags:
 
 !!! info
     - campaign:: [[32.01 DotMM]]
-    - factions:: 
+    - factions::
     - related:: [[Finethir Shinebright]]
-    - class:: 
+    - class::
     - type:: npc, ttrpg
     - status:: 💀
-    - lastLocation:: 
+    - lastLocation::
 
 # [[Ahmed Noke]]
 
     [!infobox|right]
+
     # Ahmed Noke
     ![[Pasted image 20221022004738.png|275]]
 

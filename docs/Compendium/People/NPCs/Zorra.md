@@ -8,14 +8,14 @@ tags:
 
 !!! info
     - campaign:: [[32.02 SumonHo]]
-    - factions:: 
-    - related:: 
-    - class:: 
-    - player:: 
-    - ddbLink:: 
+    - factions::
+    - related::
+    - class::
+    - player::
+    - ddbLink::
     - type:: npc, ttrpg
-    - status:: 
-    - lastLocation:: 
+    - status::
+    - lastLocation::
 
 # [[Zorra]]
 

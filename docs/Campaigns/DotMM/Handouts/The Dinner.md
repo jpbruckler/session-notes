@@ -7,7 +7,7 @@ created: 2022-11-13
 # [[The Dinner]]
 
 !!! info
-    - related:: [[Halaster Blackcloak]], [[The Legion of the Emerald Goat]], [[Chateâu Le Scouzec]]
+    - related:: [[Halaster Blackcloak]], [[The Legion of the Emerald Goat]], [[Chateau Le Scouzec]]
     - type:: note
 
 The evening of the dinner arrives. [[Tandaleia Deleamintaviglia|Maggie]], [[Tsakor]], [[Hani Wildheart|Hani]], and [[Eris]], dressed in their finest, all make their way to the front of Castle Vendare, expecting to see one of the Count's carriages waiting for them. Instead they are greeted by a large covered carriage. Roughly square in shape, the exterior wood paneling has lacquered in a glossy black. A delicate filigree in gold leaf is painted on both sides of the carriage, and each of the 4 lanterns that hang from its corners sit on polished brass pedastals.
@@ -22,7 +22,7 @@ In what seems like no time at all the carriage is slowing to a stop. Pulling bac
 
 ![[ChateauLeScouzec.png]]
 
-As you step out of the carriage you note that at least 2 hours have passed since you left Castle Vendare, though it seemed like only a few minutes ride. It's now fully dark, and the outside of the  [[Chateâu Le Scouzec]] is lit with a slightly bluish light, though there's no obvious light source.
+As you step out of the carriage you note that at least 2 hours have passed since you left Castle Vendare, though it seemed like only a few minutes ride. It's now fully dark, and the outside of the  [[Chateau Le Scouzec]] is lit with a slightly bluish light, though there's no obvious light source.
 
 The butler introduces himself as [[Gabrielle Langlaise]] with a deep bow. He has fine features and pale skin, his eyes are a very light blue. It's hard to tell how old (or young?) he is, but he has a welcoming manor and any strangeness you had concerning the apparent discrepancy in time fades away as he greets you all warmly and leads you into the château. 
 

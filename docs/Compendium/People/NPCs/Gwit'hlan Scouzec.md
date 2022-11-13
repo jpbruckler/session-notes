@@ -1,31 +1,35 @@
 ---
-title: Grinvah Dreedasesh
-id: 628fc0d4-b5ea-49d1-ae96-8a5b09844593
-created: 2022-11-06
+title: Gwit'hlan Le Scouzec
+id: 91b675b4-afea-4f4f-b973-4006c3fb53e2
+created: 2022-11-13
+aliases:
+  - "Lord Scouzec"
+  - "Gwit'hlan"
 tags:
   - ttrpg/character
-  - ttrpg/campaign/sumonho/npc
+  - ttrpg/campaign/dotmm/npc
 ---
 
 
 !!! info
-    - campaign:: [[32.02 SumonHo]]
+    - campaign:: [[32.01 DotMM]]
     - factions::
     - related::
-    - status::
+    - status:: 💓
     - type:: npc, ttrpg
     - class::
-    - lastLocation::
+    - lastLocation:: [[Chateau Le Scouzec]]
     - profession::
 
 ---
 
-# [[Grinvah Dreedasesh]]
+# [[Gwit'hlan Scouzec]]
 
 !!! info inline end
 
-    ###### Grinvah Dreedasesh
-    ![[00-09 Meta/00 Attachments/00.02 TTRPG/Default.png|275]]
+    ###### Gwit'hlan Le Scouzec
+    ![[Gwit'hlan Le Scouzec.jpg|275]]
+    
 
 
 **Goals**
@@ -39,8 +43,6 @@ Long term:
 - ?
 ---
 **Notes**
-
-- One of the heros that ultimately disrupted [[Glorgona]]'s ritual to effectively destroy the 
 
 ---
 **Background**

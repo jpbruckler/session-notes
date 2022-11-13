@@ -10,18 +10,19 @@ tags:
 
 !!! info
     - campaign:: [[32.01 DotMM]]
-    - factions:: 
+    - factions::
     - related:: [[Quinn Crewe]]
     - status:: 💓
     - type:: npc, ttrpg
-    - profession:: 
+    - profession::
     - lastLocation:: [[Vendare]]
 
 ---
 
 # [[William Crewe]]
 
-!!! info
+!!! info inline end
+
     ###### William Crewe
     ![[WilliamCrewe.jpg|275]]
 
