@@ -12,8 +12,8 @@ aliases: []
     campaign:: [[32 SumonHo]]
     setting:: Scalinea
     leader:: [[Tloques-Popolocas]]
-    related:: 
-    externalLink:: 
+    related::
+    externalLink::
     type:: faction, ttrpg
 
 

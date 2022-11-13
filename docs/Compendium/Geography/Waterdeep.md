@@ -21,8 +21,10 @@ Interactive map: https://www.aidedd.org/atlas/index.php?map=W&l=1
 
 
 !!! info
+
     ## Waterdeep
     ![[Waterdeep_seal.webp|cover]]
+
     ###### Geography
     |  |  |
     |---|---|
@@ -30,11 +32,13 @@ Interactive map: https://www.aidedd.org/atlas/index.php?map=W&l=1
     | | Crown of the North |
     | Region | [[Sword Coast North]]
     | | [[Northwest Faerun]]
+
     ###### Society
     |   |   |
     |---|---|
     | Demonym | Waterdhavians |
     | Relgions | [[Deneir]], [[Mystra]], [[Oghma]], [[Tempus]], [[Sutamo]] |
+
     ###### Politics
     | | |
     |---|---|

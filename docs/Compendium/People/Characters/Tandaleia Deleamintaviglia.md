@@ -24,14 +24,17 @@ tags:
 
 # [[Tandaleia Deleamintaviglia]]
 
-!!! info
+!!! info inline end
+
     ###### Tandaleia Deleamintaviglia
     ![[Maggie.jpeg|275]]
+
     ###### General
-    |            |     | 
-    | ---------- | --- | 
-    | Lvl/Class: |  Cleric 7 (Trickery)   |  
-    | Patron:    |  [[Tymora]]   | 
+    |            |     |
+    | ---------- | --- |
+    | Lvl/Class: |  Cleric 7 (Trickery)   |
+    | Patron:    |  [[Tymora]]   |
+
     ###### Stats
     | Atrribute |       | Other |       |
     | :----: | :------: | :---: | :---: |

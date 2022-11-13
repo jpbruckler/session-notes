@@ -8,8 +8,8 @@ tags:
 
 !!! info
     - campaign:: [[32.02 SumonHo]]
-    - factions:: 
-    - related:: 
+    - factions::
+    - related::
     - class:: Warlock
     - player:: [[@Kate Vajda]]
     - ddbLink:: [Hopeful](https://www.dndbeyond.com/characters/37408674)
@@ -20,13 +20,16 @@ tags:
 # [[Hopeful]]
 
     [!infobox|right]
+
     # Hopeful
     ![[Hopeful.jpeg|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 39 | AC | 14 |
-    | LVL | 6 Warlock |  AL | CG | 
+    | LVL | 6 Warlock |  AL | CG |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -35,7 +38,8 @@ tags:
     | CON | +1 (12) |
     | INT | +1 (14) |
     | WIS | +1 (12) |
-    | CHA | +4 (18) | 
+    | CHA | +4 (18) |
+
     ###### Senses
     | | |
     |---|---|

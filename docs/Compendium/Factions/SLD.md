@@ -20,8 +20,8 @@ FactionType::
 
 ## Motto
 
->[!quote]
->The edge goes to the one with the best information and knows how to use it.
+!!! info
+    The edge goes to the one with the best information and knows how to use it.
 
 ## Purpose/Goals
 

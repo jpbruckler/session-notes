@@ -9,7 +9,7 @@ tags:
 !!! info
     - campaign:: [[32.00 AotR]]
     - factions:: [[The Last Blades]]
-    - related:: 
+    - related::
     - class:: Rogue
     - player:: ???
     - ddbLink:: [Jexim](https://www.dndbeyond.com/characters/63322738)
@@ -20,13 +20,16 @@ tags:
 # [[Jexim]]
 
     [!infobox|right]
+
     # Jexim
     ![[jexim.jpg|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 17 | AC | 15 |
-    | LVL | 2 Rogue |  AL | CN | 
+    | LVL | 2 Rogue |  AL | CN |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -35,7 +38,8 @@ tags:
     | CON | +2 (14) |
     | INT | +0 (10) |
     | WIS | +2 (14) |
-    | CHA | +1 (12) 
+    | CHA | +1 (12)
+
     ###### Senses
     | | |
     |---|---|

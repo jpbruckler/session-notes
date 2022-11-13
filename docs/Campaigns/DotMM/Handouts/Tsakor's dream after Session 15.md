@@ -9,7 +9,7 @@ tags: []
 
 # [[Tsakor's dream after Session 15]]
 
-!!! info "Metadata "
+!!! info
     campaign:: [[32.01 DotMM]]
     related:: [[Tsakor]], [[Hun-Hoksa]], [[015-20220913]]
     type:: ttrpg, handout, dream
@@ -29,7 +29,7 @@ The vision fades after that, and you sleep a deep and restful sleep.
 
 A feat has been added to your character sheet called "Blessing of the Unyielding".
 
-!!! info "Blessing of the Unyielding"
+!!! info
     You gain a boon to your attributes, the ability to sustain some level of exhaustion, and additional endurance. Your tenacity in battle to further your patron's ideals have been noticed. Your patron bestows a blessing that most befits someone with your gritty determination.
     
     You increase one of your ability scores by 1 (not to exceed 20). You always subtract 1 from your current level of exhaustion. You gain 1 additional hit point for each level you have currently have, and an additional hit point for each level you gain in the future.

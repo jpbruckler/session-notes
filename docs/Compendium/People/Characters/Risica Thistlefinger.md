@@ -9,7 +9,7 @@ tags:
 !!! info
     - campaign:: [[32.00 AotR]]
     - factions:: [[The Last Blades]]
-    - related:: 
+    - related::
     - class:: Ranger
     - player:: [[@Brandi Bruckler]]
     - ddbLink:: [Risica](https://www.dndbeyond.com/characters/63197766)
@@ -20,13 +20,16 @@ tags:
 # [[Risica Thistlefinger]]
 
     [!infobox|right]
+
     # Risica Thistlefinger
     ![[FuzulaFastbritches.png|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 20 | AC | 15 |
-    | LVL | 2 Ranger |  AL | CG | 
+    | LVL | 2 Ranger |  AL | CG |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -36,6 +39,7 @@ tags:
     | INT | +1 (12) |
     | WIS | +2 (14) |
     | CHA | -1 (8)  |
+
     ###### Senses
     | | |
     |---|---|

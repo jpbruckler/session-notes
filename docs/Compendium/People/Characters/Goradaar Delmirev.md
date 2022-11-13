@@ -15,18 +15,20 @@ tags:
     - ddbLink:: [Goradaar](https://www.dndbeyond.com/characters/38594440)
     - type:: character, ttrpg
     - status:: 💓
-    - lastLocation:: 
+    - lastLocation::
 
 # [[Goradaar Delmirev]]
 
-!!! inline end
-    #### Goradaar Delmirev
+    [!infobox|right]
+
+    # Goradaar Delmirev
     ![[Goradaar.png|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 37 | AC | 12 |
-    | LVL | 7 Wizard |  AL | CN | 
+    | LVL | 7 Wizard |  AL | CN |
 
     ###### Stats
     | Title | Value |
@@ -36,8 +38,8 @@ tags:
     | CON | +1 (13) |
     | INT | +3 (17) |
     | WIS | +2 (14) |
-    | CHA | +1 (13) 
-    
+    | CHA | +1 (13)
+
     ###### Senses
     | | |
     |---|---|

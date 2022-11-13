@@ -22,8 +22,8 @@ FactionType::Religious,Para-military
 
 ## Motto
 
->[!quote]
->We were born to be free, we must all be willing to fight for it.
+!!! info
+    We were born to be free, we must all be willing to fight for it.
 
 ## Purpose/Goals
 

@@ -19,32 +19,34 @@ tags:
 
 # [[Elinor]]
 
-!!! inline end
-    ###### Elinor
+    [!infobox|right]
+
+    # Elinor
     ![[Elinor.jpeg|275]]
-    
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 52 | AC | 16 |
-    | LVL | 7 Bard |  AL | CN | 
-    
+    | LVL | 7 Bard |  AL | CN |
+
     ###### Stats
     | Title | Value |
-    | ---- | ---- |
+    | :----: | :----: |
     | STR |  -1 (8) |
     | DEX |  +2 (14) |
-    | CON | +2 (14) |
+   | CON | +2 (14) |
     | INT | +1 (12) |
     | WIS | +0 (10) |
-    | CHA | +4 (18) 
-    
+    | CHA | +4 (18)
+
     ###### Senses
     | | |
     |---|---|
     | 👁️ | 11 |
     |  :fas_magnifying_glass:   | 14 |
     |  :luc_lightbulb: | 16 |
+
 
 ---
 **Goals**

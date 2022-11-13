@@ -9,35 +9,37 @@ tags:
 !!! info
     - campaign:: [[32.02 SumonHo]]
     - factions:: [[Danger Inc.]], [[SLD]]
-    - related:: 
+    - related::
     - class:: Cleric
     - player:: [[@Nick Hyatt]]
-    - ddbLink:: 
+    - ddbLink::
     - type:: character, ttrpg
     - status:: 💀
-    - lastLocation:: 
+    - lastLocation::
 
 # [[Eljas]]
 
-!!! inline end
-    #### Eljas
+    [!infobox|right]
+
+    # Eljas
     ![[eljas.png|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 18 | AC | 18 |
-    | LVL | 3 Paladin |  AL | CG | 
-    
+    | LVL | 3 Paladin |  AL | CG |
+
     ###### Stats
     | Title | Value |
-    | ---- | ---- |
+    | :----: | :----: |
     | STR |  +0 (10) |
     | DEX |  +0 (10) |
-    | CON | +0 (10) |
+ | CON | +0 (10) |
     | INT | +0 (10) |
     | WIS | +0 (10) |
-    | CHA | +0 (10) 
-    
+    | CHA | +0 (10)
+
     ###### Senses
     | | |
     |---|---|

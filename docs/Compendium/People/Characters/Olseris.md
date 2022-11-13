@@ -9,24 +9,27 @@ tags:
 !!! info
     - campaign:: [[32.02 SumonHo]]
     - factions:: [[Danger Inc.]], [[SLD]]
-    - related:: 
+    - related::
     - class:: Warlock
     - player:: John Bruckler
     - ddbLink:: [Olseris](https://www.dndbeyond.com/characters/59424157)
     - type:: character, ttrpg
     - status:: 💀
-    - lastLocation:: 
+    - lastLocation::
 
 # [[Olseris]]
 
     [!infobox|right]
+
     # Olseris
     ![[olseris.jpg|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 18 | AC | 18 |
-    | 2 | PLD |  AL | CG | 
+    | 2 | PLD |  AL | CG |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -35,7 +38,8 @@ tags:
  | CON | +0 (10) |
     | INT | +0 (10) |
     | WIS | +0 (10) |
-    | CHA | +0 (10) 
+    | CHA | +0 (10)
+
     ###### Senses
     | | |
     |---|---|---|

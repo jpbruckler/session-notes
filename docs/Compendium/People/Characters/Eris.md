@@ -10,26 +10,29 @@ tags:
 
 !!! info
     - campaign:: [[32.01 DotMM]]
-    - factions:: 
-    - related:: 
-    - status:: 
+    - factions::
+    - related::
+    - status::
     - type:: character, ttrpg
-    - class:: 
-    - player:: 
-    - ddbLink:: 
+    - class::
+    - player::
+    - ddbLink::
 
 ---
 
 # [[Eris]]
 
-!!! inline end
+!!! info inline end
+
     ###### Eris
     ![[Eris.png|275]]
+
     ###### General
-    |            |     | 
-    | ---------- | --- | 
-    | Lvl/Class: |     |  
-    | Patron:    |     | 
+    |            |     |
+    | ---------- | --- |
+    | Lvl/Class: |     |
+    | Patron:    |     |
+
     ###### Stats
     | Atrribute |       | Other |       |
     | :----: | :------: | :---: | :---: |
@@ -84,7 +87,7 @@ tags:
 !!! info
     - campaign:: [[32.01 DotMM]]
     - factions:: [[The Legion of the Emerald Goat]]
-    - related:: 
+    - related::
     - class:: Warlock
     - player:: [[@Sarah Bruckler]]
     - ddbLink:: [Eris](https://www.dndbeyond.com/characters/79998999)
@@ -95,13 +98,16 @@ tags:
 # [[Eris]]
 
     [!infobox|right]
+
     # Eris
     ![[Eris.png|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 38 | AC | 14 |
-    | LVL | 7 Warlock |  AL | N | 
+    | LVL | 7 Warlock |  AL | N |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -111,6 +117,7 @@ tags:
     | INT | +1 (12) |
     | WIS | +2 (14) |
     | CHA | +4(18) |
+
     ###### Senses
     | | |
     |---|---|

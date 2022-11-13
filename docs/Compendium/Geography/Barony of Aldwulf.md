@@ -11,7 +11,8 @@ tags:
 # [[Barony of Aldwulf]]
 
 
-!!! info
+!!! info inline end
+
     ###### Metadata
     - campaign:: [[32.01 DotMM]]
     - setting:: [[Forgotten Realms]]

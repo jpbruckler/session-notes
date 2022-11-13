@@ -9,7 +9,7 @@ tags: []
 
 # [[Gwen's Vision after Session 15]]
 
-!!! info "Metadata "
+!!! info
     related::
     type:: note
 

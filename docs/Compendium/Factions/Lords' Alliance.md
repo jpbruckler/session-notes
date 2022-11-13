@@ -11,9 +11,9 @@ aliases: []
 !!! info
     campaign:: [[32.01 DotMM]]
     setting:: Forgotten Realms
-    leader:: 
-    related:: 
-    externalLink:: 
+    leader::
+    related::
+    externalLink::
     type:: faction, ttrpg
 
 

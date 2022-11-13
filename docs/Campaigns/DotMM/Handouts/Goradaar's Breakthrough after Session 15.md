@@ -8,10 +8,11 @@ tags:
 
 # [[Goradaar's Breakthrough after Session 15]]
 
->[!aside]
->###### Metadata
+!!! info inline end
+
+    ###### Metadata
     - campaign:: [[32.01 DotMM]]
-    - related:: 
+    - related::
     - summary::
 
 

@@ -8,7 +8,7 @@ aliases: []
 
 # [[Maggie's vision after Session 15]]
 
-!!! info "Metadata "
+!!! info
     campaign:: [[32.01 DotMM]]
     related:: [[Tymora]], [[Tandaleia Deleamintaviglia]], [[015-20220913]]
     type:: ttrpg, vision, handout

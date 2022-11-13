@@ -15,31 +15,33 @@ tags:
     - ddbLink:: [Fuzula](https://www.dndbeyond.com/characters/19369030)
     - type:: character, ttrpg
     - status:: 💓
-    - lastLocation:: 
+    - lastLocation::
 
 # [[Fuzula Fastbritches]]
 
-!!! inline end
-    ##### Fuzula Fastbritches
+    [!infobox|right]
+
+    # Fuzula Fastbritches
     ![[fuzula.png|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 58 | AC | 15 |
-    | LVL | 5 Ranger/2 Rogue |  AL | CG | 
+    | LVL | 5 Ranger/2 Rogue |  AL | CG |
 
     ###### Stats
     | Title | Value |
     | :----: | :----: |
     | STR |  +0 (10) |
     | DEX |  +4 (18) |
-    | CON | +2 (14) |
+   | CON | +2 (14) |
     | INT | +0 (10) |
     | WIS | +2 (14) |
-    | CHA | +1 (12) 
-    
+    | CHA | +1 (12)
+
     ###### Senses
-    | | 
+    | |
     |---|---|
     | 👁️ | 15 |
     | :fas_magnifying_glass:   | 10 |

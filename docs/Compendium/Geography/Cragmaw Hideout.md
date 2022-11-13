@@ -158,8 +158,8 @@ The goblins in [[Cragmaw Hideout#7 Twin Pools Cave|area 7]] can release a second
 
 The Cragmaw raiders stationed in the hideout use this area as a common room and barracks.
 
->[!info]
->This large cave is divided in half by a ten-foot-high escarpment. A steep natural staircase leads from the lower portion to the upper ledge. The air is hazy with the smoke of a cooking fire, and pungent from the smell of poorly cured hides and unwashed goblins.
+!!! info
+    This large cave is divided in half by a ten-foot-high escarpment. A steep natural staircase leads from the lower portion to the upper ledge. The air is hazy with the smoke of a cooking fire, and pungent from the smell of poorly cured hides and unwashed goblins.
 
 
 Six [[13.monsters#Goblin|goblins]] inhabit this den, and one of them is a leader with 12 hit points. The five ordinary goblins tend the cooking fire in the lower (northern) part of the cave near the entrance passage, while the leader rests in the upper (southern) part of the cave.
@@ -182,10 +182,10 @@ If the characters refuse to parley, Yeemik shoves [[Sildar Hallwinter|Sildar]] o
 
 - The three Rockseeker brothers ([[Gundren Rockseeker|Gundren]], [[Tharden Rockseeker|Tharden]], and [[Nundro Rockseeker|Nundro]]) recently located an entrance to the long-lost Wave Echo Cave, site of the mines of the Phandelver’s Pact.
 
->[!tldr] Background
->More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver’s Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power. Human spellcasters allied themselves with the dwarves and gnomes to channel and bind that energy into a great forge (called the Forge of Spells), where magic items could be crafted. Times were good, and the nearby human town of [[Phandalin]] (pronounced _fan_-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path.
+!!! info
+    More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver’s Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power. Human spellcasters allied themselves with the dwarves and gnomes to channel and bind that energy into a great forge (called the Forge of Spells), where magic items could be crafted. Times were good, and the nearby human town of [[Phandalin]] (pronounced _fan_-duh-lin) prospered as well. But then disaster struck when orcs swept through the North and laid waste to all in their path.
     
->A powerful force of orcs reinforced by evil mercenary wizards attacked Wave Echo Cave to seize its riches and magic treasures. Human wizards fought alongside their dwarf and gnome allies to defend the Forge of Spells, and the ensuing spell battle destroyed much of the cavern. Few survived the cave-ins and tremors, and the location of Wave Echo Cave was lost.
+    A powerful force of orcs reinforced by evil mercenary wizards attacked Wave Echo Cave to seize its riches and magic treasures. Human wizards fought alongside their dwarf and gnome allies to defend the Forge of Spells, and the ensuing spell battle destroyed much of the cavern. Few survived the cave-ins and tremors, and the location of Wave Echo Cave was lost.
 
 
 - [[13.monsters#Bugbear|Klarg]], the bugbear who leads this goblin band, had orders to waylay Gundren. Sildar heard from the goblins that the Black Spider sent word that the dwarf was to be brought to him. [[Sildar Hallwinter|Sildar]] doesn’t know who or what the [[Nezznar|The Black Spider]] is.

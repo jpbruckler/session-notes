@@ -12,24 +12,27 @@ tags:
 !!! info
     - campaign:: [[32.02 SumonHo]]
     - factions:: [[Danger Inc.]], [[SLD]]
-    - related:: 
+    - related::
     - class:: Barbarian/Fighter
     - player:: Michael Bruckler
     - ddbLink:: [Kereshi](https://www.dndbeyond.com/characters/19442561)
     - type:: character, ttrpg
     - status:: 💓
-    - lastLocation:: 
+    - lastLocation::
 
 # [[Kereshi Khill]]
 
     [!infobox|right]
+
     # Kereshi Khill
     ![[KereshiKhill.jpeg|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 85 | AC | 20 |
-    | LVL | 5 Barbarian/2 Fighter |  AL | CG | 
+    | LVL | 5 Barbarian/2 Fighter |  AL | CG |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -38,7 +41,8 @@ tags:
    | CON | +4 (18) |
     | INT | -1 (8) |
     | WIS | +1 (12) |
-    | CHA | -1 (8) 
+    | CHA | -1 (8)
+
     ###### Senses
     | | |
     |---|---|

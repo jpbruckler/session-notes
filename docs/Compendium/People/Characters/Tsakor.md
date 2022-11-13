@@ -10,7 +10,7 @@ tags:
   - ttrpg
 ---
 
-!!! info "Metadata "
+!!! info
     campaign:: [[32.01 DotMM]]
     factions:: [[The Legi****on of the Emerald Goat]], [[The Darkhouse]]
     related:: [[Gwenith Serena]], [[Tandaleia Deleamintaviglia]], [[Goradaar Delmirev]], [[Hani Wildheart]], [[Hun-Hoksa]]
@@ -22,18 +22,18 @@ tags:
 # Tsakor
 
 !!! info "Current Goals"
-    Short Term: 
+    Short Term:
     - Gain experience and capabilities.
     - See more of the world.
     - Acquire a darkness dagger
-    - Find a way to quickly transfer between splint mail/plate armor (when he has some) and his breastplate when stealth is required. 
-    - A magic item to boost strength. 
+    - Find a way to quickly transfer between splint mail/plate armor (when he has some) and his breastplate when stealth is required.
+    - A magic item to boost strength.
     
-    Mid Term: 
-    - He says "protect the innocent" but strong influence from his "stop oppression" background. 
-    - Return to [[The Darkhouse]] and help Llannor accomplish his greatest goals. 
+    Mid Term:
+    - He says "protect the innocent" but strong influence from his "stop oppression" background.
+    - Return to [[The Darkhouse]] and help Llannor accomplish his greatest goals.
     
-    Long Term: 
+    Long Term:
     - Become powerful enough to face off alone against a devil or powerful necromancer.
 
 

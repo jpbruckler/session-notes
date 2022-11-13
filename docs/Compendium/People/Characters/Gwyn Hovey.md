@@ -22,18 +22,20 @@ tags:
 
 # [[Gwyn Hovey]]
 
-!!! inline end
+!!! info inline end
+
     ###### Gwyn Hovey
     ![[Gwyn_Hovey.png|275]]
+
     ###### General
-    |            |     | 
-    | ---------- | --- | 
-    | Lvl/Class: |   7 Cleric (Twilight)  |  
-    | Patron:    |    [[Sutamo]], [[Diancecht]] | 
+    |            |     |
+    | ---------- | --- |
+    | Lvl/Class: |   7 Cleric (Twilight)  |
+    | Patron:    |    [[Sutamo]], [[Diancecht]] |
 
     ###### Stats
-    | Atrribute | Bonus    | Other | *     |
-    | --------- | -------- | ----- | ----- |
+    | Atrribute |          | Other |       |
+    | :----:    | :------: | :---: | :---: |
     | STR       | +2 (15)  | 🛡️   | 21    |
     | DEX       | +0 (10)  | 💖   | 57    |
     | CON       | +2 (14)  | 👀   | 14    |

@@ -29,8 +29,8 @@ Passphrase: "I kneel with the Master"
 
 [[Averos]] said over 3 messages: 
 
->[!quote] Averos
->After many, many hours of research the only reference to the Passion Place was an area bandit lieutenant’s letter written 15 years ago. According to the letter, it’s Master is a very powerful entity; a [[Battle Mage]], a warrior spell caster. The letter references a password (opps, passphrase) to allow passage by the place’s guards. Since the passphrase was widely distributed, it was never changed according to the letter. The passphrase is ‘I kneel with the Master.’ That’s all the pertinent information.
+!!! info
+    After many, many hours of research the only reference to the Passion Place was an area bandit lieutenant’s letter written 15 years ago. According to the letter, it’s Master is a very powerful entity; a [[Battle Mage]], a warrior spell caster. The letter references a password (opps, passphrase) to allow passage by the place’s guards. Since the passphrase was widely distributed, it was never changed according to the letter. The passphrase is ‘I kneel with the Master.’ That’s all the pertinent information.
 
 
 

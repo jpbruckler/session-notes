@@ -9,24 +9,27 @@ tags:
 !!! info
     - campaign:: [[32.01 DotMM]]
     - factions:: [[The Legion of the Emerald Goat]]
-    - related:: 
+    - related::
     - class:: Rogue
     - player:: [[@Don Warnecke]]
     - ddbLink:: [Hani](https://www.dndbeyond.com/characters/38792522)
     - type:: character, ttrpg
     - status:: 💓
-    - lastLocation:: 
+    - lastLocation::
 
 # [[Hani Wildheart]]
 
     [!infobox|right]
+
     # Hani Wildheart
     ![[HaniWildheart.jpeg|275]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 45 | AC | 16 |
-    | LVL |  |  AL | CN | 
+    | LVL |  |  AL | CN |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -35,7 +38,8 @@ tags:
  | CON | +0 (10) |
     | INT | +0 (10) |
     | WIS | +0 (10) |
-    | CHA | +0 (10) 
+    | CHA | +0 (10)
+
     ###### Senses
     | | |
     |---|---|

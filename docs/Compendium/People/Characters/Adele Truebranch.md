@@ -19,13 +19,16 @@ tags:
 # [[Adele Truebranch]]
 
     [!infobox|right]
+
     # Adele Truebranch
     ![[Adele_Truebranch.jpg]]
+
     ###### General
     |       |       |     |      |
     | --- | --- | --- | --- |
     | HP | 18 | AC | 18 |
-    | 2 | PLD |  AL | CG | 
+    | 2 | PLD |  AL | CG |
+
     ###### Stats
     | Title | Value |
     | :----: | :----: |
@@ -34,7 +37,8 @@ tags:
     | CON | +0 (10) |
     | INT | +0 (10) |
     | WIS | +0 (10) |
-    | CHA | +0 (10) 
+    | CHA | +0 (10)
+
     ###### Senses
     | | |
     |---|---|---|

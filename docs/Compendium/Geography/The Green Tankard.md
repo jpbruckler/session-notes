@@ -27,37 +27,37 @@ An upscale inn located in the heart of [[Vendare]], and just a stone's throw fro
 
     [!multi-column]
     
->> [!info]- Food
->>
->> | Item                            | Price | 
->> | ------------------------------- | ----- | 
->> | Deer Casserole                  | 38 SP | 
->> | Porridge                        | 18 SP | 
->> | Veggie Sandwich                 | 6 SP  | 
->> | Deer Soup                       | 10 SP | 
->> | Clam Pie                        | 28 SP | 
->> | Fresh Peppers                   | 32 SP | 
->> | Scorpion and Pepper Skewers     | 28 SP | 
->> | Cauliflower Bread               | 30 SP | 
->> | Noodles                         | 8 SP  | 
->> | Magically Preserved Cantaloupes | 32 SP | 
->> | Cooked Onions                   | 6 SP  | 
->> | Deer Diced                      | 32 SP | 
+    [!info]- Food
     
->> [!info]- Drinks
->>
->> | Item                   | Price |
->> | ---------------------- | ----- |
->> | Vodka                  | 6 CP  |
->> | Gin                    | 6 CP  |
->> | Glacial Water          | 6 CP  |
->> | Rum                    | 6 CP  |
->> | Fizzlewig's Mango Fizz | 8 CP  |
->> | Mango Milk             | 8 CP  |
->> | Jasmine Tea            | 20 CP |
+    | Item                            | Price |
+    | ------------------------------- | ----- |
+    | Deer Casserole                  | 38 SP |
+    | Porridge                        | 18 SP |
+    | Veggie Sandwich                 | 6 SP  |
+    | Deer Soup                       | 10 SP |
+    | Clam Pie                        | 28 SP |
+    | Fresh Peppers                   | 32 SP |
+    | Scorpion and Pepper Skewers     | 28 SP |
+    | Cauliflower Bread               | 30 SP |
+    | Noodles                         | 8 SP  |
+    | Magically Preserved Cantaloupes | 32 SP |
+    | Cooked Onions                   | 6 SP  |
+    | Deer Diced                      | 32 SP |
+    
+    [!info]- Drinks
+    
+    | Item                   | Price |
+    | ---------------------- | ----- |
+    | Vodka                  | 6 CP  |
+    | Gin                    | 6 CP  |
+    | Glacial Water          | 6 CP  |
+    | Rum                    | 6 CP  |
+    | Fizzlewig's Mango Fizz | 8 CP  |
+    | Mango Milk             | 8 CP  |
+    | Jasmine Tea            | 20 CP |
 
 !!! info "Specialty Drink"
-    **One Beer to Rule Them All** 
+    **One Beer to Rule Them All**
     4000 GP. A clear liquid but when held to heat, elven writing appears as fiery wisps throughout the drink. On consumption, make a WIS saving throw DC 20. On a failure, you become addicted to the drink. 24 hours after consuming the drink, you become compelled to get more and will do anything in your power to do so. If you are unable to consume this drink again after another 24 hours, your compulsion ends. On a success, you gain the ability to cast Greater Invisibility for the next 24 hours. |
 
 
